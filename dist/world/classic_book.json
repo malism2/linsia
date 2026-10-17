@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "updatedAt": "2026-08-20",
+  "books": [
+    {
+      "rank": 1,
+      "gutenbergId": 1342,
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "coverUrl": "https://www.gutenberg.org/cache/epub/1342/pg1342.cover.medium.jpg"
+    },
+    {
+      "rank": 2,
+      "gutenbergId": 84,
+      "title": "Frankenstein; Or, The Modern Prometheus",
+      "author": "Mary Wollstonecraft Shelley",
+      "coverUrl": "https://www.gutenberg.org/cache/epub/84/pg84.cover.medium.jpg"
+    },
+    {
+      "rank": 3,
+      "gutenbergId": 11,
+      "title": "Alice's Adventures in Wonderland",
+      "author": "Lewis Carroll",
+      "coverUrl": "https://www.gutenberg.org/cache/epub/11/pg11.cover.medium.jpg"
+    },
+    {
+      "rank": 4,
+      "gutenbergId": 1661,
+      "title": "The Adventures of Sherlock Holmes",
+      "author": "Arthur Conan Doyle",
+      "coverUrl": "https://www.gutenberg.org/cache/epub/1661/pg1661.cover.medium.jpg"
+    },
+    {
+      "rank": 5,
+      "gutenbergId": 174,
+      "title": "The Picture of Dorian Gray",
+      "author": "Oscar Wilde",
+      "coverUrl": "https://www.gutenberg.org/cache/epub/174/pg174.cover.medium.jpg"
+    },
+    {
+      "rank": 6,
+      "gutenbergId": 2701,
+      "title": "Moby Dick; Or, The Whale",
+      "author": "Herman Melville",
+      "coverUrl": "https://www.gutenberg.org/cache/epub/2701/pg2701.cover.medium.jpg"
+    },
+    {
+      "rank": 7,
+      "gutenbergId": 345,
+      "title": "Dracula",
+      "author": "Bram Stoker",
+      "coverUrl": "https://www.gutenberg.org/cache/epub/345/pg345.cover.medium.jpg"
+    },
+    {
+      "rank": 8,
+      "gutenbergId": 64317,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "coverUrl": "https://www.gutenberg.org/cache/epub/64317/pg64317.cover.medium.jpg"
+    },
+    {
+      "rank": 9,
+      "gutenbergId": 46,
+      "title": "A Christmas Carol",
+      "author": "Charles Dickens",
+      "coverUrl": "https://www.gutenberg.org/cache/epub/46/pg46.cover.medium.jpg"
+    },
+    {
+      "rank": 10,
+      "gutenbergId": 1260,
+      "title": "Jane Eyre: An Autobiography",
+      "author": "Charlotte Brontë",
+      "coverUrl": "https://www.gutenberg.org/cache/epub/1260/pg1260.cover.medium.jpg"
+    },
+    {
+      "rank": 11,
+      "gutenbergId": 98,
+      "title": "A Tale of Two Cities",
+      "author": "Charles Dickens",
+      "coverUrl": "https://www.gutenberg.org/cache/epub/98/pg98.cover.medium.jpg"
+    },
+    {
+      "rank": 12,
+      "gutenbergId": 768,
+      "title": "Wuthering Heights",
+      "author": "Emily Brontë",
+      "coverUrl": "https://www.gutenberg.org/cache/epub/768/pg768.cover.medium.jpg"
+    },
+    {
+      "rank": 13,
+      "gutenbergId": 514,
+      "title": "Little Women",
+      "author": "Louisa May Alcott",
+      "coverUrl": "https://www.gutenberg.org/cache/epub/514/pg514.cover.medium.jpg"
+    },
+    {
+      "rank": 14,
+      "gutenbergId": 43,
+      "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+      "author": "Robert Louis Stevenson",
+      "coverUrl": "https://www.gutenberg.org/cache/epub/43/pg43.cover.medium.jpg"
+    },
+    {
+      "rank": 15,
+      "gutenbergId": 74,
+      "title": "The Adventures of Tom Sawyer",
+      "author": "Mark Twain",
+      "coverUrl": "https://www.gutenberg.org/cache/epub/74/pg74.cover.medium.jpg"
+    },
+    {
+      "rank": 16,
+      "gutenbergId": 120,
+      "title": "Treasure Island",
+      "author": "Robert Louis Stevenson",
+      "coverUrl": "https://www.gutenberg.org/cache/epub/120/pg120.cover.medium.jpg"
+    },
+    {
+      "rank": 17,
+      "gutenbergId": 36,
+      "title": "The War of the Worlds",
+      "author": "H. G. Wells",
+      "coverUrl": "https://www.gutenberg.org/cache/epub/36/pg36.cover.medium.jpg"
+    },
+    {
+      "rank": 18,
+      "gutenbergId": 1184,
+      "title": "The Count of Monte Cristo",
+      "author": "Alexandre Dumas",
+      "coverUrl": "https://www.gutenberg.org/cache/epub/1184/pg1184.cover.medium.jpg"
+    },
+    {
+      "rank": 19,
+      "gutenbergId": 33,
+      "title": "The Scarlet Letter",
+      "author": "Nathaniel Hawthorne",
+      "coverUrl": "https://www.gutenberg.org/cache/epub/33/pg33.cover.medium.jpg"
+    },
+    {
+      "rank": 20,
+      "gutenbergId": 45,
+      "title": "Anne of Green Gables",
+      "author": "L. M. Montgomery",
+      "coverUrl": "https://www.gutenberg.org/cache/epub/45/pg45.cover.medium.jpg"
+    }
+  ]
+}

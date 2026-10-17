@@ -1,0 +1,2119 @@
+{
+  "id": "cet6",
+  "title": "CET-6",
+  "words": [
+    {
+      "name": "abolish",
+      "trans": [
+        "废除"
+      ],
+      "usphone": "əˈbɑːlɪʃ",
+      "ukphone": "əˈbɒlɪʃ"
+    },
+    {
+      "name": "abortion",
+      "trans": [
+        "流产",
+        "中止"
+      ],
+      "usphone": "əˈbɔːrʃn",
+      "ukphone": "əˈbɔːʃn"
+    },
+    {
+      "name": "abrupt",
+      "trans": [
+        "突然的",
+        "粗鲁的"
+      ],
+      "usphone": "əˈbrʌpt",
+      "ukphone": "əˈbrʌpt"
+    },
+    {
+      "name": "absorption",
+      "trans": [
+        "吸收"
+      ],
+      "usphone": "əbˈzɔːrpʃn",
+      "ukphone": "əbˈzɔːpʃn"
+    },
+    {
+      "name": "abstract",
+      "trans": [
+        "抽象的",
+        "摘要"
+      ],
+      "usphone": "æbˈstrækt",
+      "ukphone": "ˈæbstrækt"
+    },
+    {
+      "name": "absurd",
+      "trans": [
+        "荒谬的"
+      ],
+      "usphone": "əbˈsɜːrd",
+      "ukphone": "əbˈsɜːd"
+    },
+    {
+      "name": "abundance",
+      "trans": [
+        "丰富"
+      ],
+      "usphone": "əˈbʌndəns",
+      "ukphone": "əˈbʌndəns"
+    },
+    {
+      "name": "academy",
+      "trans": [
+        "学院",
+        "研究院"
+      ],
+      "usphone": "əˈkædəmi",
+      "ukphone": "əˈkædəmi"
+    },
+    {
+      "name": "accessory",
+      "trans": [
+        "配件",
+        "从犯"
+      ],
+      "usphone": "əkˈsesəri",
+      "ukphone": "əkˈsesəri"
+    },
+    {
+      "name": "accommodate",
+      "trans": [
+        "容纳",
+        "适应"
+      ],
+      "usphone": "əˈkɑːmədeɪt",
+      "ukphone": "əˈkɒmədeɪt"
+    },
+    {
+      "name": "accommodation",
+      "trans": [
+        "住宿",
+        "适应"
+      ],
+      "usphone": "əˌkɑːməˈdeɪʃn",
+      "ukphone": "əˌkɒməˈdeɪʃn"
+    },
+    {
+      "name": "accompany",
+      "trans": [
+        "陪伴"
+      ],
+      "usphone": "əˈkʌmpəni",
+      "ukphone": "əˈkʌmpəni"
+    },
+    {
+      "name": "accord",
+      "trans": [
+        "协议",
+        "符合"
+      ],
+      "usphone": "əˈkɔːrd",
+      "ukphone": "əˈkɔːd"
+    },
+    {
+      "name": "accountable",
+      "trans": [
+        "负有责任的"
+      ],
+      "usphone": "əˈkaʊntəbl",
+      "ukphone": "əˈkaʊntəbl"
+    },
+    {
+      "name": "accumulate",
+      "trans": [
+        "积累"
+      ],
+      "usphone": "əˈkjuːmjəleɪt",
+      "ukphone": "əˈkjuːmjəleɪt"
+    },
+    {
+      "name": "accuracy",
+      "trans": [
+        "准确性"
+      ],
+      "usphone": "ˈækjərəsi",
+      "ukphone": "ˈækjərəsi"
+    },
+    {
+      "name": "accustom",
+      "trans": [
+        "使习惯"
+      ],
+      "usphone": "əˈkʌstəm",
+      "ukphone": "əˈkʌstəm"
+    },
+    {
+      "name": "acid",
+      "trans": [
+        "酸",
+        "尖刻的"
+      ],
+      "usphone": "ˈæsɪd",
+      "ukphone": "ˈæsɪd"
+    },
+    {
+      "name": "acknowledge",
+      "trans": [
+        "承认"
+      ],
+      "usphone": "əkˈnɑːlɪdʒ",
+      "ukphone": "əkˈnɒlɪdʒ"
+    },
+    {
+      "name": "acquaint",
+      "trans": [
+        "使认识"
+      ],
+      "usphone": "əˈkweɪnt",
+      "ukphone": "əˈkweɪnt"
+    },
+    {
+      "name": "acquisition",
+      "trans": [
+        "获得",
+        "收购"
+      ],
+      "usphone": "ˌækwɪˈzɪʃn",
+      "ukphone": "ˌækwɪˈzɪʃn"
+    },
+    {
+      "name": "activate",
+      "trans": [
+        "激活"
+      ],
+      "usphone": "ˈæktɪveɪt",
+      "ukphone": "ˈæktɪveɪt"
+    },
+    {
+      "name": "acute",
+      "trans": [
+        "急性的",
+        "敏锐的"
+      ],
+      "usphone": "əˈkjuːt",
+      "ukphone": "əˈkjuːt"
+    },
+    {
+      "name": "adapt",
+      "trans": [
+        "适应"
+      ],
+      "usphone": "əˈdæpt",
+      "ukphone": "əˈdæpt"
+    },
+    {
+      "name": "addict",
+      "trans": [
+        "使上瘾",
+        "成瘾者"
+      ],
+      "usphone": "əˈdɪkt",
+      "ukphone": "əˈdɪkt"
+    },
+    {
+      "name": "additive",
+      "trans": [
+        "添加剂"
+      ],
+      "usphone": "ˈædətɪv",
+      "ukphone": "ˈædətɪv"
+    },
+    {
+      "name": "address",
+      "trans": [
+        "处理",
+        "地址"
+      ],
+      "usphone": "əˈdres",
+      "ukphone": "əˈdres"
+    },
+    {
+      "name": "adjacent",
+      "trans": [
+        "邻近的"
+      ],
+      "usphone": "əˈdʒeɪsnt",
+      "ukphone": "əˈdʒeɪsnt"
+    },
+    {
+      "name": "adjoin",
+      "trans": [
+        "毗连"
+      ],
+      "usphone": "əˈdʒɔɪn",
+      "ukphone": "əˈdʒɔɪn"
+    },
+    {
+      "name": "adjust",
+      "trans": [
+        "调整"
+      ],
+      "usphone": "əˈdʒʌst",
+      "ukphone": "əˈdʒʌst"
+    },
+    {
+      "name": "administer",
+      "trans": [
+        "管理",
+        "执行"
+      ],
+      "usphone": "ədˈmɪnɪstər",
+      "ukphone": "ədˈmɪnɪstə"
+    },
+    {
+      "name": "adolescent",
+      "trans": [
+        "青少年"
+      ],
+      "usphone": "ˌædəˈlesnt",
+      "ukphone": "ˌædəˈlesnt"
+    },
+    {
+      "name": "advent",
+      "trans": [
+        "出现",
+        "到来"
+      ],
+      "usphone": "ˈædvent",
+      "ukphone": "ˈædvent"
+    },
+    {
+      "name": "adverse",
+      "trans": [
+        "不利的",
+        "有害的"
+      ],
+      "usphone": "ədˈvɜːrs",
+      "ukphone": "ˈædvɜːs"
+    },
+    {
+      "name": "advertise",
+      "trans": [
+        "做广告"
+      ],
+      "usphone": "ˈædvərtaɪz",
+      "ukphone": "ˈædvətaɪz"
+    },
+    {
+      "name": "advocate",
+      "trans": [
+        "提倡"
+      ],
+      "usphone": "ˈædvəkeɪt",
+      "ukphone": "ˈædvəkeɪt"
+    },
+    {
+      "name": "aerial",
+      "trans": [
+        "空中的",
+        "天线"
+      ],
+      "usphone": "ˈeriəl",
+      "ukphone": "ˈeəriəl"
+    },
+    {
+      "name": "aesthetic",
+      "trans": [
+        "美学的",
+        "审美的"
+      ],
+      "usphone": "esˈθetɪk",
+      "ukphone": "iːsˈθetɪk"
+    },
+    {
+      "name": "affiliate",
+      "trans": [
+        "附属机构",
+        "使附属"
+      ],
+      "usphone": "əˈfɪlieɪt",
+      "ukphone": "əˈfɪlieɪt"
+    },
+    {
+      "name": "affirm",
+      "trans": [
+        "断言",
+        "肯定"
+      ],
+      "usphone": "əˈfɜːrm",
+      "ukphone": "əˈfɜːm"
+    },
+    {
+      "name": "afflict",
+      "trans": [
+        "使痛苦"
+      ],
+      "usphone": "əˈflɪkt",
+      "ukphone": "əˈflɪkt"
+    },
+    {
+      "name": "affluent",
+      "trans": [
+        "富裕的"
+      ],
+      "usphone": "ˈæfluənt",
+      "ukphone": "ˈæfluənt"
+    },
+    {
+      "name": "aftermath",
+      "trans": [
+        "后果"
+      ],
+      "usphone": "ˈæftərmæθ",
+      "ukphone": "ˈɑːftəmæθ"
+    },
+    {
+      "name": "aggravate",
+      "trans": [
+        "加重",
+        "激怒"
+      ],
+      "usphone": "ˈæɡrəveɪt",
+      "ukphone": "ˈæɡrəveɪt"
+    },
+    {
+      "name": "aggregate",
+      "trans": [
+        "总计",
+        "集合体"
+      ],
+      "usphone": "ˈæɡrɪɡət",
+      "ukphone": "ˈæɡrɪɡət"
+    },
+    {
+      "name": "agitate",
+      "trans": [
+        "煽动",
+        "使激动"
+      ],
+      "usphone": "ˈædʒɪteɪt",
+      "ukphone": "ˈædʒɪteɪt"
+    },
+    {
+      "name": "agony",
+      "trans": [
+        "极度痛苦"
+      ],
+      "usphone": "ˈæɡəni",
+      "ukphone": "ˈæɡəni"
+    },
+    {
+      "name": "agreeable",
+      "trans": [
+        "令人愉快的",
+        "同意的"
+      ],
+      "usphone": "əˈɡriːəbl",
+      "ukphone": "əˈɡriːəbl"
+    },
+    {
+      "name": "air-conditioning",
+      "trans": [
+        "空调"
+      ],
+      "usphone": "ˈer kənˌdɪʃənɪŋ",
+      "ukphone": "ˈeə kənˌdɪʃənɪŋ"
+    },
+    {
+      "name": "aisle",
+      "trans": [
+        "过道"
+      ],
+      "usphone": "aɪl",
+      "ukphone": "aɪl"
+    },
+    {
+      "name": "alert",
+      "trans": [
+        "警惕的"
+      ],
+      "usphone": "əˈlɜːrt",
+      "ukphone": "əˈlɜːt"
+    },
+    {
+      "name": "alien",
+      "trans": [
+        "外星人",
+        "陌生的"
+      ],
+      "usphone": "ˈeɪliən",
+      "ukphone": "ˈeɪliən"
+    },
+    {
+      "name": "alienate",
+      "trans": [
+        "使疏远"
+      ],
+      "usphone": "ˈeɪliəneɪt",
+      "ukphone": "ˈeɪliəneɪt"
+    },
+    {
+      "name": "align",
+      "trans": [
+        "使对齐",
+        "结盟"
+      ],
+      "usphone": "əˈlaɪn",
+      "ukphone": "əˈlaɪn"
+    },
+    {
+      "name": "alike",
+      "trans": [
+        "相似的"
+      ],
+      "usphone": "əˈlaɪk",
+      "ukphone": "əˈlaɪk"
+    },
+    {
+      "name": "allege",
+      "trans": [
+        "声称"
+      ],
+      "usphone": "əˈledʒ",
+      "ukphone": "əˈledʒ"
+    },
+    {
+      "name": "alleviate",
+      "trans": [
+        "减轻"
+      ],
+      "usphone": "əˈliːvieɪt",
+      "ukphone": "əˈliːvieɪt"
+    },
+    {
+      "name": "allocate",
+      "trans": [
+        "分配"
+      ],
+      "usphone": "ˈæləkeɪt",
+      "ukphone": "ˈæləkeɪt"
+    },
+    {
+      "name": "allot",
+      "trans": [
+        "分配"
+      ],
+      "usphone": "əˈlɑːt",
+      "ukphone": "əˈlɒt"
+    },
+    {
+      "name": "allowance",
+      "trans": [
+        "津贴"
+      ],
+      "usphone": "əˈlaʊəns",
+      "ukphone": "əˈlaʊəns"
+    },
+    {
+      "name": "alloy",
+      "trans": [
+        "合金"
+      ],
+      "usphone": "ˈælɔɪ",
+      "ukphone": "ˈælɔɪ"
+    },
+    {
+      "name": "ally",
+      "trans": [
+        "盟友"
+      ],
+      "usphone": "ˈælaɪ",
+      "ukphone": "ˈælaɪ"
+    },
+    {
+      "name": "alongside",
+      "trans": [
+        "在旁边"
+      ],
+      "usphone": "əˌlɔːŋˈsaɪd",
+      "ukphone": "əˌlɒŋˈsaɪd"
+    },
+    {
+      "name": "alternate",
+      "trans": [
+        "交替",
+        "候补的"
+      ],
+      "usphone": "ˈɔːltərneɪt",
+      "ukphone": "ˈɔːltəneɪt"
+    },
+    {
+      "name": "amateur",
+      "trans": [
+        "业余爱好者"
+      ],
+      "usphone": "ˈæmətər",
+      "ukphone": "ˈæmətə"
+    },
+    {
+      "name": "ambassador",
+      "trans": [
+        "大使"
+      ],
+      "usphone": "æmˈbæsədər",
+      "ukphone": "æmˈbæsədə"
+    },
+    {
+      "name": "ambiguous",
+      "trans": [
+        "模棱两可的"
+      ],
+      "usphone": "æmˈbɪɡjuəs",
+      "ukphone": "æmˈbɪɡjuəs"
+    },
+    {
+      "name": "ambition",
+      "trans": [
+        "雄心"
+      ],
+      "usphone": "æmˈbɪʃn",
+      "ukphone": "æmˈbɪʃn"
+    },
+    {
+      "name": "ambitious",
+      "trans": [
+        "有雄心的"
+      ],
+      "usphone": "æmˈbɪʃəs",
+      "ukphone": "æmˈbɪʃəs"
+    },
+    {
+      "name": "amend",
+      "trans": [
+        "修正"
+      ],
+      "usphone": "əˈmend",
+      "ukphone": "əˈmend"
+    },
+    {
+      "name": "amends",
+      "trans": [
+        "赔偿"
+      ],
+      "usphone": "əˈmendz",
+      "ukphone": "əˈmendz"
+    },
+    {
+      "name": "amiable",
+      "trans": [
+        "和蔼可亲的"
+      ],
+      "usphone": "ˈeɪmiəbl",
+      "ukphone": "ˈeɪmiəbl"
+    },
+    {
+      "name": "amid",
+      "trans": [
+        "在…中间"
+      ],
+      "usphone": "əˈmɪd",
+      "ukphone": "əˈmɪd"
+    },
+    {
+      "name": "ammunition",
+      "trans": [
+        "弹药"
+      ],
+      "usphone": "ˌæmjuˈnɪʃn",
+      "ukphone": "ˌæmjuˈnɪʃn"
+    },
+    {
+      "name": "amplify",
+      "trans": [
+        "放大",
+        "增强"
+      ],
+      "usphone": "ˈæmplɪfaɪ",
+      "ukphone": "ˈæmplɪfaɪ"
+    },
+    {
+      "name": "analogy",
+      "trans": [
+        "类比"
+      ],
+      "usphone": "əˈnælədʒi",
+      "ukphone": "əˈnælədʒi"
+    },
+    {
+      "name": "analytic",
+      "trans": [
+        "分析的"
+      ],
+      "usphone": "ˌænəˈlɪtɪk",
+      "ukphone": "ˌænəˈlɪtɪk"
+    },
+    {
+      "name": "anatomy",
+      "trans": [
+        "解剖学"
+      ],
+      "usphone": "əˈnætəmi",
+      "ukphone": "əˈnætəmi"
+    },
+    {
+      "name": "ancestor",
+      "trans": [
+        "祖先"
+      ],
+      "usphone": "ˈænsestər",
+      "ukphone": "ˈænsestə"
+    },
+    {
+      "name": "anecdote",
+      "trans": [
+        "轶事"
+      ],
+      "usphone": "ˈænɪkdoʊt",
+      "ukphone": "ˈænɪkdəʊt"
+    },
+    {
+      "name": "angel",
+      "trans": [
+        "天使"
+      ],
+      "usphone": "ˈeɪndʒl",
+      "ukphone": "ˈeɪndʒl"
+    },
+    {
+      "name": "anguish",
+      "trans": [
+        "极度痛苦"
+      ],
+      "usphone": "ˈæŋɡwɪʃ",
+      "ukphone": "ˈæŋɡwɪʃ"
+    },
+    {
+      "name": "animate",
+      "trans": [
+        "使有生气"
+      ],
+      "usphone": "ˈænɪmeɪt",
+      "ukphone": "ˈænɪmeɪt"
+    },
+    {
+      "name": "annex",
+      "trans": [
+        "吞并",
+        "附属建筑"
+      ],
+      "usphone": "əˈneks",
+      "ukphone": "əˈneks"
+    },
+    {
+      "name": "anniversary",
+      "trans": [
+        "周年纪念"
+      ],
+      "usphone": "ˌænɪˈvɜːrsəri",
+      "ukphone": "ˌænɪˈvɜːsəri"
+    },
+    {
+      "name": "anonymous",
+      "trans": [
+        "匿名的"
+      ],
+      "usphone": "əˈnɑːnɪməs",
+      "ukphone": "əˈnɒnɪməs"
+    },
+    {
+      "name": "antarctic",
+      "trans": [
+        "南极的"
+      ],
+      "usphone": "ænˈtɑːrktɪk",
+      "ukphone": "ænˈtɑːktɪk"
+    },
+    {
+      "name": "antenna",
+      "trans": [
+        "天线",
+        "触角"
+      ],
+      "usphone": "ænˈtenə",
+      "ukphone": "ænˈtenə"
+    },
+    {
+      "name": "anthropology",
+      "trans": [
+        "人类学"
+      ],
+      "usphone": "ˌænθrəˈpɑːlədʒi",
+      "ukphone": "ˌænθrəˈpɒlədʒi"
+    },
+    {
+      "name": "antibiotic",
+      "trans": [
+        "抗生素"
+      ],
+      "usphone": "ˌæntibaɪˈɑːtɪk",
+      "ukphone": "ˌæntibaɪˈɒtɪk"
+    },
+    {
+      "name": "anticipate",
+      "trans": [
+        "预期"
+      ],
+      "usphone": "ænˈtɪsɪpeɪt",
+      "ukphone": "ænˈtɪsɪpeɪt"
+    },
+    {
+      "name": "antique",
+      "trans": [
+        "古董"
+      ],
+      "usphone": "ænˈtiːk",
+      "ukphone": "ænˈtiːk"
+    },
+    {
+      "name": "anxiety",
+      "trans": [
+        "焦虑"
+      ],
+      "usphone": "æŋˈzaɪəti",
+      "ukphone": "æŋˈzaɪəti"
+    },
+    {
+      "name": "apart",
+      "trans": [
+        "分开",
+        "除外"
+      ],
+      "usphone": "əˈpɑːrt",
+      "ukphone": "əˈpɑːt"
+    },
+    {
+      "name": "ape",
+      "trans": [
+        "猿",
+        "模仿"
+      ],
+      "usphone": "eɪp",
+      "ukphone": "eɪp"
+    },
+    {
+      "name": "apologize",
+      "trans": [
+        "道歉"
+      ],
+      "usphone": "əˈpɑːlədʒaɪz",
+      "ukphone": "əˈpɒlədʒaɪz"
+    },
+    {
+      "name": "apparatus",
+      "trans": [
+        "器械",
+        "机构"
+      ],
+      "usphone": "ˌæpəˈrætəs",
+      "ukphone": "ˌæpəˈreɪtəs"
+    },
+    {
+      "name": "appealing",
+      "trans": [
+        "有吸引力的"
+      ],
+      "usphone": "əˈpiːlɪŋ",
+      "ukphone": "əˈpiːlɪŋ"
+    },
+    {
+      "name": "appendix",
+      "trans": [
+        "附录"
+      ],
+      "usphone": "əˈpendɪks",
+      "ukphone": "əˈpendɪks"
+    },
+    {
+      "name": "applaud",
+      "trans": [
+        "鼓掌"
+      ],
+      "usphone": "əˈplɔːd",
+      "ukphone": "əˈplɔːd"
+    },
+    {
+      "name": "appliance",
+      "trans": [
+        "器具"
+      ],
+      "usphone": "əˈplaɪəns",
+      "ukphone": "əˈplaɪəns"
+    },
+    {
+      "name": "applicable",
+      "trans": [
+        "适用的"
+      ],
+      "usphone": "əˈplɪkəbl",
+      "ukphone": "əˈplɪkəbl"
+    },
+    {
+      "name": "appraisal",
+      "trans": [
+        "评估"
+      ],
+      "usphone": "əˈpreɪzl",
+      "ukphone": "əˈpreɪzl"
+    },
+    {
+      "name": "appreciable",
+      "trans": [
+        "可观的"
+      ],
+      "usphone": "əˈpriːʃəbl",
+      "ukphone": "əˈpriːʃəbl"
+    },
+    {
+      "name": "apprehend",
+      "trans": [
+        "逮捕",
+        "理解"
+      ],
+      "usphone": "ˌæprɪˈhend",
+      "ukphone": "ˌæprɪˈhend"
+    },
+    {
+      "name": "apprentice",
+      "trans": [
+        "学徒"
+      ],
+      "usphone": "əˈprentɪs",
+      "ukphone": "əˈprentɪs"
+    },
+    {
+      "name": "approach",
+      "trans": [
+        "方法",
+        "接近"
+      ],
+      "usphone": "əˈproʊtʃ",
+      "ukphone": "əˈprəʊtʃ"
+    },
+    {
+      "name": "appropriate",
+      "trans": [
+        "适当的"
+      ],
+      "usphone": "əˈproʊpriət",
+      "ukphone": "əˈprəʊpriət"
+    },
+    {
+      "name": "approximate",
+      "trans": [
+        "大约的"
+      ],
+      "usphone": "əˈprɑːksɪmət",
+      "ukphone": "əˈprɒksɪmət"
+    },
+    {
+      "name": "apt",
+      "trans": [
+        "易于…的",
+        "恰当的"
+      ],
+      "usphone": "æpt",
+      "ukphone": "æpt"
+    },
+    {
+      "name": "arbitrary",
+      "trans": [
+        "任意的"
+      ],
+      "usphone": "ˈɑːrbɪtreri",
+      "ukphone": "ˈɑːbɪtrəri"
+    },
+    {
+      "name": "arc",
+      "trans": [
+        "弧"
+      ],
+      "usphone": "ɑːrk",
+      "ukphone": "ɑːk"
+    },
+    {
+      "name": "arch",
+      "trans": [
+        "拱",
+        "拱门"
+      ],
+      "usphone": "ɑːrtʃ",
+      "ukphone": "ɑːtʃ"
+    },
+    {
+      "name": "architect",
+      "trans": [
+        "建筑师"
+      ],
+      "usphone": "ˈɑːrkɪtekt",
+      "ukphone": "ˈɑːkɪtekt"
+    },
+    {
+      "name": "archive",
+      "trans": [
+        "档案"
+      ],
+      "usphone": "ˈɑːrkaɪv",
+      "ukphone": "ˈɑːkaɪv"
+    },
+    {
+      "name": "arctic",
+      "trans": [
+        "北极的"
+      ],
+      "usphone": "ˈɑːrktɪk",
+      "ukphone": "ˈɑːktɪk"
+    },
+    {
+      "name": "ardent",
+      "trans": [
+        "热情的"
+      ],
+      "usphone": "ˈɑːrdnt",
+      "ukphone": "ˈɑːdnt"
+    },
+    {
+      "name": "arena",
+      "trans": [
+        "竞技场"
+      ],
+      "usphone": "əˈriːnə",
+      "ukphone": "əˈriːnə"
+    },
+    {
+      "name": "arise",
+      "trans": [
+        "出现"
+      ],
+      "usphone": "əˈraɪz",
+      "ukphone": "əˈraɪz"
+    },
+    {
+      "name": "aristocrat",
+      "trans": [
+        "贵族"
+      ],
+      "usphone": "əˈrɪstəkræt",
+      "ukphone": "ˈærɪstəkræt"
+    },
+    {
+      "name": "arithmetic",
+      "trans": [
+        "算术"
+      ],
+      "usphone": "əˈrɪθmətɪk",
+      "ukphone": "əˈrɪθmətɪk"
+    },
+    {
+      "name": "armor",
+      "trans": [
+        "盔甲"
+      ],
+      "usphone": "ˈɑːrmər",
+      "ukphone": "ˈɑːmə"
+    },
+    {
+      "name": "arouse",
+      "trans": [
+        "引起"
+      ],
+      "usphone": "əˈraʊz",
+      "ukphone": "əˈraʊz"
+    },
+    {
+      "name": "array",
+      "trans": [
+        "数组",
+        "一系列"
+      ],
+      "usphone": "əˈreɪ",
+      "ukphone": "əˈreɪ"
+    },
+    {
+      "name": "articulate",
+      "trans": [
+        "清楚地表达"
+      ],
+      "usphone": "ɑːrˈtɪkjuleɪt",
+      "ukphone": "ɑːˈtɪkjuleɪt"
+    },
+    {
+      "name": "artificial",
+      "trans": [
+        "人造的"
+      ],
+      "usphone": "ˌɑːrtɪˈfɪʃl",
+      "ukphone": "ˌɑːtɪˈfɪʃl"
+    },
+    {
+      "name": "artillery",
+      "trans": [
+        "大炮"
+      ],
+      "usphone": "ɑːrˈtɪləri",
+      "ukphone": "ɑːˈtɪləri"
+    },
+    {
+      "name": "ascend",
+      "trans": [
+        "上升"
+      ],
+      "usphone": "əˈsend",
+      "ukphone": "əˈsend"
+    },
+    {
+      "name": "ascertain",
+      "trans": [
+        "查明"
+      ],
+      "usphone": "ˌæsərˈteɪn",
+      "ukphone": "ˌæsəˈteɪn"
+    },
+    {
+      "name": "ascribe",
+      "trans": [
+        "把…归因于"
+      ],
+      "usphone": "əˈskraɪb",
+      "ukphone": "əˈskraɪb"
+    },
+    {
+      "name": "ashamed",
+      "trans": [
+        "惭愧的"
+      ],
+      "usphone": "əˈʃeɪmd",
+      "ukphone": "əˈʃeɪmd"
+    },
+    {
+      "name": "ashore",
+      "trans": [
+        "上岸"
+      ],
+      "usphone": "əˈʃɔːr",
+      "ukphone": "əˈʃɔː"
+    },
+    {
+      "name": "assault",
+      "trans": [
+        "袭击"
+      ],
+      "usphone": "əˈsɔːlt",
+      "ukphone": "əˈsɔːlt"
+    },
+    {
+      "name": "assemble",
+      "trans": [
+        "集合"
+      ],
+      "usphone": "əˈsembl",
+      "ukphone": "əˈsembl"
+    },
+    {
+      "name": "assert",
+      "trans": [
+        "断言",
+        "维护"
+      ],
+      "usphone": "əˈsɜːrt",
+      "ukphone": "əˈsɜːt"
+    },
+    {
+      "name": "assess",
+      "trans": [
+        "评估"
+      ],
+      "usphone": "əˈses",
+      "ukphone": "əˈses"
+    },
+    {
+      "name": "asset",
+      "trans": [
+        "资产"
+      ],
+      "usphone": "ˈæset",
+      "ukphone": "ˈæset"
+    },
+    {
+      "name": "assign",
+      "trans": [
+        "分配"
+      ],
+      "usphone": "əˈsaɪn",
+      "ukphone": "əˈsaɪn"
+    },
+    {
+      "name": "assimilate",
+      "trans": [
+        "吸收",
+        "同化"
+      ],
+      "usphone": "əˈsɪməleɪt",
+      "ukphone": "əˈsɪməleɪt"
+    },
+    {
+      "name": "assist",
+      "trans": [
+        "协助"
+      ],
+      "usphone": "əˈsɪst",
+      "ukphone": "əˈsɪst"
+    },
+    {
+      "name": "associate",
+      "trans": [
+        "联系"
+      ],
+      "usphone": "əˈsoʊʃieɪt",
+      "ukphone": "əˈsəʊʃieɪt"
+    },
+    {
+      "name": "assumption",
+      "trans": [
+        "假定"
+      ],
+      "usphone": "əˈsʌmpʃn",
+      "ukphone": "əˈsʌmpʃn"
+    },
+    {
+      "name": "assurance",
+      "trans": [
+        "保证",
+        "自信"
+      ],
+      "usphone": "əˈʃʊrəns",
+      "ukphone": "əˈʃʊərəns"
+    },
+    {
+      "name": "assure",
+      "trans": [
+        "向…保证"
+      ],
+      "usphone": "əˈʃʊr",
+      "ukphone": "əˈʃʊə"
+    },
+    {
+      "name": "astonish",
+      "trans": [
+        "使惊讶"
+      ],
+      "usphone": "əˈstɑːnɪʃ",
+      "ukphone": "əˈstɒnɪʃ"
+    },
+    {
+      "name": "astronomy",
+      "trans": [
+        "天文学"
+      ],
+      "usphone": "əˈstrɑːnəmi",
+      "ukphone": "əˈstrɒnəmi"
+    },
+    {
+      "name": "asylum",
+      "trans": [
+        "庇护",
+        "精神病院"
+      ],
+      "usphone": "əˈsaɪləm",
+      "ukphone": "əˈsaɪləm"
+    },
+    {
+      "name": "athlete",
+      "trans": [
+        "运动员"
+      ],
+      "usphone": "ˈæθliːt",
+      "ukphone": "ˈæθliːt"
+    },
+    {
+      "name": "atlas",
+      "trans": [
+        "地图集"
+      ],
+      "usphone": "ˈætləs",
+      "ukphone": "ˈætləs"
+    },
+    {
+      "name": "atmosphere",
+      "trans": [
+        "气氛",
+        "大气"
+      ],
+      "usphone": "ˈætməsfɪr",
+      "ukphone": "ˈætməsfɪə"
+    },
+    {
+      "name": "atom",
+      "trans": [
+        "原子"
+      ],
+      "usphone": "ˈætəm",
+      "ukphone": "ˈætəm"
+    },
+    {
+      "name": "atrocity",
+      "trans": [
+        "暴行"
+      ],
+      "usphone": "əˈtrɑːsəti",
+      "ukphone": "əˈtrɒsəti"
+    },
+    {
+      "name": "attach",
+      "trans": [
+        "附上"
+      ],
+      "usphone": "əˈtætʃ",
+      "ukphone": "əˈtætʃ"
+    },
+    {
+      "name": "attain",
+      "trans": [
+        "达到"
+      ],
+      "usphone": "əˈteɪn",
+      "ukphone": "əˈteɪn"
+    },
+    {
+      "name": "attendance",
+      "trans": [
+        "出席"
+      ],
+      "usphone": "əˈtendəns",
+      "ukphone": "əˈtendəns"
+    },
+    {
+      "name": "attendant",
+      "trans": [
+        "服务员",
+        "伴随的"
+      ],
+      "usphone": "əˈtendənt",
+      "ukphone": "əˈtendənt"
+    },
+    {
+      "name": "attorney",
+      "trans": [
+        "律师"
+      ],
+      "usphone": "əˈtɜːrni",
+      "ukphone": "əˈtɜːni"
+    },
+    {
+      "name": "attribute",
+      "trans": [
+        "属性",
+        "归因"
+      ],
+      "usphone": "əˈtrɪbjuːt",
+      "ukphone": "əˈtrɪbjuːt"
+    },
+    {
+      "name": "auction",
+      "trans": [
+        "拍卖"
+      ],
+      "usphone": "ˈɔːkʃn",
+      "ukphone": "ˈɔːkʃn"
+    },
+    {
+      "name": "audible",
+      "trans": [
+        "听得见的"
+      ],
+      "usphone": "ˈɔːdəbl",
+      "ukphone": "ˈɔːdəbl"
+    },
+    {
+      "name": "audit",
+      "trans": [
+        "审计"
+      ],
+      "usphone": "ˈɔːdɪt",
+      "ukphone": "ˈɔːdɪt"
+    },
+    {
+      "name": "auditorium",
+      "trans": [
+        "礼堂"
+      ],
+      "usphone": "ˌɔːdɪˈtɔːriəm",
+      "ukphone": "ˌɔːdɪˈtɔːriəm"
+    },
+    {
+      "name": "augment",
+      "trans": [
+        "增加"
+      ],
+      "usphone": "ɔːɡˈment",
+      "ukphone": "ɔːɡˈment"
+    },
+    {
+      "name": "authentic",
+      "trans": [
+        "真实的",
+        "正宗的"
+      ],
+      "usphone": "ɔːˈθentɪk",
+      "ukphone": "ɔːˈθentɪk"
+    },
+    {
+      "name": "authoritative",
+      "trans": [
+        "权威的"
+      ],
+      "usphone": "əˈθɔːrəteɪtɪv",
+      "ukphone": "ɔːˈθɒrətətɪv"
+    },
+    {
+      "name": "authorize",
+      "trans": [
+        "授权"
+      ],
+      "usphone": "ˈɔːθəraɪz",
+      "ukphone": "ˈɔːθəraɪz"
+    },
+    {
+      "name": "autobiography",
+      "trans": [
+        "自传"
+      ],
+      "usphone": "ˌɔːtəbaɪˈɑːɡrəfi",
+      "ukphone": "ˌɔːtəbaɪˈɒɡrəfi"
+    },
+    {
+      "name": "automate",
+      "trans": [
+        "使自动化"
+      ],
+      "usphone": "ˈɔːtəmeɪt",
+      "ukphone": "ˈɔːtəmeɪt"
+    },
+    {
+      "name": "autonomy",
+      "trans": [
+        "自治"
+      ],
+      "usphone": "ɔːˈtɑːnəmi",
+      "ukphone": "ɔːˈtɒnəmi"
+    },
+    {
+      "name": "avail",
+      "trans": [
+        "有助于",
+        "效用"
+      ],
+      "usphone": "əˈveɪl",
+      "ukphone": "əˈveɪl"
+    },
+    {
+      "name": "avert",
+      "trans": [
+        "避免",
+        "转移"
+      ],
+      "usphone": "əˈvɜːrt",
+      "ukphone": "əˈvɜːt"
+    },
+    {
+      "name": "aviation",
+      "trans": [
+        "航空"
+      ],
+      "usphone": "ˌeɪviˈeɪʃn",
+      "ukphone": "ˌeɪviˈeɪʃn"
+    },
+    {
+      "name": "axis",
+      "trans": [
+        "轴"
+      ],
+      "usphone": "ˈæksɪs",
+      "ukphone": "ˈæksɪs"
+    },
+    {
+      "name": "bachelor",
+      "trans": [
+        "学士",
+        "单身汉"
+      ],
+      "usphone": "ˈbætʃələr",
+      "ukphone": "ˈbætʃələ"
+    },
+    {
+      "name": "badge",
+      "trans": [
+        "徽章"
+      ],
+      "usphone": "bædʒ",
+      "ukphone": "bædʒ"
+    },
+    {
+      "name": "baffle",
+      "trans": [
+        "使困惑"
+      ],
+      "usphone": "ˈbæfl",
+      "ukphone": "ˈbæfl"
+    },
+    {
+      "name": "bald",
+      "trans": [
+        "秃头的"
+      ],
+      "usphone": "bɔːld",
+      "ukphone": "bɔːld"
+    },
+    {
+      "name": "ballet",
+      "trans": [
+        "芭蕾"
+      ],
+      "usphone": "ˈbæleɪ",
+      "ukphone": "ˈbæleɪ"
+    },
+    {
+      "name": "balloon",
+      "trans": [
+        "气球"
+      ],
+      "usphone": "bəˈluːn",
+      "ukphone": "bəˈluːn"
+    },
+    {
+      "name": "ban",
+      "trans": [
+        "禁止"
+      ],
+      "usphone": "bæn",
+      "ukphone": "bæn"
+    },
+    {
+      "name": "bandage",
+      "trans": [
+        "绷带"
+      ],
+      "usphone": "ˈbændɪdʒ",
+      "ukphone": "ˈbændɪdʒ"
+    },
+    {
+      "name": "bandwidth",
+      "trans": [
+        "带宽"
+      ],
+      "usphone": "ˈbændwɪdθ",
+      "ukphone": "ˈbændwɪdθ"
+    },
+    {
+      "name": "bankrupt",
+      "trans": [
+        "破产的"
+      ],
+      "usphone": "ˈbæŋkrʌpt",
+      "ukphone": "ˈbæŋkrʌpt"
+    },
+    {
+      "name": "banquet",
+      "trans": [
+        "宴会"
+      ],
+      "usphone": "ˈbæŋkwɪt",
+      "ukphone": "ˈbæŋkwɪt"
+    },
+    {
+      "name": "bar",
+      "trans": [
+        "酒吧",
+        "条",
+        "阻碍"
+      ],
+      "usphone": "bɑːr",
+      "ukphone": "bɑː"
+    },
+    {
+      "name": "barbecue",
+      "trans": [
+        "烧烤"
+      ],
+      "usphone": "ˈbɑːrbɪkjuː",
+      "ukphone": "ˈbɑːbɪkjuː"
+    },
+    {
+      "name": "barely",
+      "trans": [
+        "几乎不"
+      ],
+      "usphone": "ˈberli",
+      "ukphone": "ˈbeəli"
+    },
+    {
+      "name": "bargain",
+      "trans": [
+        "便宜货"
+      ],
+      "usphone": "ˈbɑːrɡən",
+      "ukphone": "ˈbɑːɡən"
+    },
+    {
+      "name": "barren",
+      "trans": [
+        "贫瘠的"
+      ],
+      "usphone": "ˈbærən",
+      "ukphone": "ˈbærən"
+    },
+    {
+      "name": "basement",
+      "trans": [
+        "地下室"
+      ],
+      "usphone": "ˈbeɪsmənt",
+      "ukphone": "ˈbeɪsmənt"
+    },
+    {
+      "name": "batch",
+      "trans": [
+        "一批"
+      ],
+      "usphone": "bætʃ",
+      "ukphone": "bætʃ"
+    },
+    {
+      "name": "battery",
+      "trans": [
+        "电池"
+      ],
+      "usphone": "ˈbætəri",
+      "ukphone": "ˈbætəri"
+    },
+    {
+      "name": "bearing",
+      "trans": [
+        "轴承",
+        "关系"
+      ],
+      "usphone": "ˈberɪŋ",
+      "ukphone": "ˈbeərɪŋ"
+    },
+    {
+      "name": "beforehand",
+      "trans": [
+        "事先"
+      ],
+      "usphone": "bɪˈfɔːrhænd",
+      "ukphone": "bɪˈfɔːhænd"
+    },
+    {
+      "name": "behalf",
+      "trans": [
+        "代表"
+      ],
+      "usphone": "bɪˈhæf",
+      "ukphone": "bɪˈhɑːf"
+    },
+    {
+      "name": "betray",
+      "trans": [
+        "背叛"
+      ],
+      "usphone": "bɪˈtreɪ",
+      "ukphone": "bɪˈtreɪ"
+    },
+    {
+      "name": "beware",
+      "trans": [
+        "当心"
+      ],
+      "usphone": "bɪˈwer",
+      "ukphone": "bɪˈweə"
+    },
+    {
+      "name": "bewilder",
+      "trans": [
+        "使迷惑"
+      ],
+      "usphone": "bɪˈwɪldər",
+      "ukphone": "bɪˈwɪldə"
+    },
+    {
+      "name": "bias",
+      "trans": [
+        "偏见"
+      ],
+      "usphone": "ˈbaɪəs",
+      "ukphone": "ˈbaɪəs"
+    },
+    {
+      "name": "bibliography",
+      "trans": [
+        "参考书目"
+      ],
+      "usphone": "ˌbɪbliˈɑːɡrəfi",
+      "ukphone": "ˌbɪbliˈɒɡrəfi"
+    },
+    {
+      "name": "bilateral",
+      "trans": [
+        "双边的"
+      ],
+      "usphone": "ˌbaɪˈlætərəl",
+      "ukphone": "ˌbaɪˈlætərəl"
+    },
+    {
+      "name": "biography",
+      "trans": [
+        "传记"
+      ],
+      "usphone": "baɪˈɑːɡrəfi",
+      "ukphone": "baɪˈɒɡrəfi"
+    },
+    {
+      "name": "bizarre",
+      "trans": [
+        "奇异的"
+      ],
+      "usphone": "bɪˈzɑːr",
+      "ukphone": "bɪˈzɑː"
+    },
+    {
+      "name": "blade",
+      "trans": [
+        "刀刃"
+      ],
+      "usphone": "bleɪd",
+      "ukphone": "bleɪd"
+    },
+    {
+      "name": "blaze",
+      "trans": [
+        "火焰",
+        "闪耀"
+      ],
+      "usphone": "bleɪz",
+      "ukphone": "bleɪz"
+    },
+    {
+      "name": "bleak",
+      "trans": [
+        "荒凉的",
+        "暗淡的"
+      ],
+      "usphone": "bliːk",
+      "ukphone": "bliːk"
+    },
+    {
+      "name": "bless",
+      "trans": [
+        "祝福"
+      ],
+      "usphone": "bles",
+      "ukphone": "bles"
+    },
+    {
+      "name": "blink",
+      "trans": [
+        "眨眼"
+      ],
+      "usphone": "blɪŋk",
+      "ukphone": "blɪŋk"
+    },
+    {
+      "name": "blunt",
+      "trans": [
+        "钝的",
+        "直率的"
+      ],
+      "usphone": "blʌnt",
+      "ukphone": "blʌnt"
+    },
+    {
+      "name": "blur",
+      "trans": [
+        "模糊"
+      ],
+      "usphone": "blɜːr",
+      "ukphone": "blɜː"
+    },
+    {
+      "name": "blush",
+      "trans": [
+        "脸红"
+      ],
+      "usphone": "blʌʃ",
+      "ukphone": "blʌʃ"
+    },
+    {
+      "name": "boast",
+      "trans": [
+        "自夸"
+      ],
+      "usphone": "boʊst",
+      "ukphone": "bəʊst"
+    },
+    {
+      "name": "bold",
+      "trans": [
+        "大胆的"
+      ],
+      "usphone": "boʊld",
+      "ukphone": "bəʊld"
+    },
+    {
+      "name": "bolt",
+      "trans": [
+        "螺栓",
+        "闪电"
+      ],
+      "usphone": "boʊlt",
+      "ukphone": "bəʊlt"
+    },
+    {
+      "name": "bonus",
+      "trans": [
+        "奖金",
+        "额外收获"
+      ],
+      "usphone": "ˈboʊnəs",
+      "ukphone": "ˈbəʊnəs"
+    },
+    {
+      "name": "booklet",
+      "trans": [
+        "小册子"
+      ],
+      "usphone": "ˈbʊklət",
+      "ukphone": "ˈbʊklət"
+    },
+    {
+      "name": "boom",
+      "trans": [
+        "繁荣",
+        "轰鸣"
+      ],
+      "usphone": "buːm",
+      "ukphone": "buːm"
+    },
+    {
+      "name": "boost",
+      "trans": [
+        "推动"
+      ],
+      "usphone": "buːst",
+      "ukphone": "buːst"
+    },
+    {
+      "name": "booth",
+      "trans": [
+        "小隔间",
+        "摊位"
+      ],
+      "usphone": "buːθ",
+      "ukphone": "buːð"
+    },
+    {
+      "name": "border",
+      "trans": [
+        "边界"
+      ],
+      "usphone": "ˈbɔːrdər",
+      "ukphone": "ˈbɔːdə"
+    },
+    {
+      "name": "bore",
+      "trans": [
+        "使厌烦",
+        "钻孔"
+      ],
+      "usphone": "bɔːr",
+      "ukphone": "bɔː"
+    },
+    {
+      "name": "bounce",
+      "trans": [
+        "弹起"
+      ],
+      "usphone": "baʊns",
+      "ukphone": "baʊns"
+    },
+    {
+      "name": "bound",
+      "trans": [
+        "必定的",
+        "跳跃"
+      ],
+      "usphone": "baʊnd",
+      "ukphone": "baʊnd"
+    },
+    {
+      "name": "boycott",
+      "trans": [
+        "抵制"
+      ],
+      "usphone": "ˈbɔɪkɑːt",
+      "ukphone": "ˈbɔɪkɒt"
+    },
+    {
+      "name": "brace",
+      "trans": [
+        "支撑",
+        "振作"
+      ],
+      "usphone": "breɪs",
+      "ukphone": "breɪs"
+    },
+    {
+      "name": "bracket",
+      "trans": [
+        "括号",
+        "托架"
+      ],
+      "usphone": "ˈbrækɪt",
+      "ukphone": "ˈbrækɪt"
+    },
+    {
+      "name": "brake",
+      "trans": [
+        "刹车"
+      ],
+      "usphone": "breɪk",
+      "ukphone": "breɪk"
+    },
+    {
+      "name": "brand",
+      "trans": [
+        "品牌"
+      ],
+      "usphone": "brænd",
+      "ukphone": "brænd"
+    },
+    {
+      "name": "breach",
+      "trans": [
+        "违反",
+        "缺口"
+      ],
+      "usphone": "briːtʃ",
+      "ukphone": "briːtʃ"
+    },
+    {
+      "name": "breakdown",
+      "trans": [
+        "故障",
+        "崩溃"
+      ],
+      "usphone": "ˈbreɪkdaʊn",
+      "ukphone": "ˈbreɪkdaʊn"
+    },
+    {
+      "name": "breakthrough",
+      "trans": [
+        "突破"
+      ],
+      "usphone": "ˈbreɪkθruː",
+      "ukphone": "ˈbreɪkθruː"
+    },
+    {
+      "name": "breed",
+      "trans": [
+        "繁殖"
+      ],
+      "usphone": "briːd",
+      "ukphone": "briːd"
+    },
+    {
+      "name": "bribe",
+      "trans": [
+        "贿赂"
+      ],
+      "usphone": "braɪb",
+      "ukphone": "braɪb"
+    },
+    {
+      "name": "briefcase",
+      "trans": [
+        "公文包"
+      ],
+      "usphone": "ˈbriːfkeɪs",
+      "ukphone": "ˈbriːfkeɪs"
+    },
+    {
+      "name": "brisk",
+      "trans": [
+        "轻快的",
+        "兴隆的"
+      ],
+      "usphone": "brɪsk",
+      "ukphone": "brɪsk"
+    },
+    {
+      "name": "brittle",
+      "trans": [
+        "易碎的"
+      ],
+      "usphone": "ˈbrɪtl",
+      "ukphone": "ˈbrɪtl"
+    },
+    {
+      "name": "bronze",
+      "trans": [
+        "青铜"
+      ],
+      "usphone": "brɑːnz",
+      "ukphone": "brɒnz"
+    },
+    {
+      "name": "brood",
+      "trans": [
+        "一窝",
+        "沉思"
+      ],
+      "usphone": "bruːd",
+      "ukphone": "bruːd"
+    },
+    {
+      "name": "bruise",
+      "trans": [
+        "瘀伤"
+      ],
+      "usphone": "bruːz",
+      "ukphone": "bruːz"
+    },
+    {
+      "name": "brutal",
+      "trans": [
+        "残忍的"
+      ],
+      "usphone": "ˈbruːtl",
+      "ukphone": "ˈbruːtl"
+    },
+    {
+      "name": "bubble",
+      "trans": [
+        "气泡"
+      ],
+      "usphone": "ˈbʌbl",
+      "ukphone": "ˈbʌbl"
+    },
+    {
+      "name": "bucket",
+      "trans": [
+        "桶"
+      ],
+      "usphone": "ˈbʌkɪt",
+      "ukphone": "ˈbʌkɪt"
+    },
+    {
+      "name": "buddy",
+      "trans": [
+        "伙伴"
+      ],
+      "usphone": "ˈbʌdi",
+      "ukphone": "ˈbʌdi"
+    },
+    {
+      "name": "buffer",
+      "trans": [
+        "缓冲"
+      ],
+      "usphone": "ˈbʌfər",
+      "ukphone": "ˈbʌfə"
+    },
+    {
+      "name": "bug",
+      "trans": [
+        "虫子",
+        "故障"
+      ],
+      "usphone": "bʌɡ",
+      "ukphone": "bʌɡ"
+    },
+    {
+      "name": "bulb",
+      "trans": [
+        "灯泡",
+        "球茎"
+      ],
+      "usphone": "bʌlb",
+      "ukphone": "bʌlb"
+    },
+    {
+      "name": "bulk",
+      "trans": [
+        "体积",
+        "大批"
+      ],
+      "usphone": "bʌlk",
+      "ukphone": "bʌlk"
+    },
+    {
+      "name": "bulletin",
+      "trans": [
+        "公告"
+      ],
+      "usphone": "ˈbʊlətɪn",
+      "ukphone": "ˈbʊlətɪn"
+    },
+    {
+      "name": "bully",
+      "trans": [
+        "欺凌"
+      ],
+      "usphone": "ˈbʊli",
+      "ukphone": "ˈbʊli"
+    },
+    {
+      "name": "bump",
+      "trans": [
+        "碰撞",
+        "隆起"
+      ],
+      "usphone": "bʌmp",
+      "ukphone": "bʌmp"
+    },
+    {
+      "name": "bunch",
+      "trans": [
+        "一束",
+        "一群"
+      ],
+      "usphone": "bʌntʃ",
+      "ukphone": "bʌntʃ"
+    },
+    {
+      "name": "bureaucracy",
+      "trans": [
+        "官僚机构"
+      ],
+      "usphone": "bjʊˈrɑːkrəsi",
+      "ukphone": "bjʊəˈrɒkrəsi"
+    },
+    {
+      "name": "burial",
+      "trans": [
+        "埋葬"
+      ],
+      "usphone": "ˈberiəl",
+      "ukphone": "ˈberiəl"
+    },
+    {
+      "name": "bust",
+      "trans": [
+        "胸围",
+        "半身像"
+      ],
+      "usphone": "bʌst",
+      "ukphone": "bʌst"
+    },
+    {
+      "name": "bypass",
+      "trans": [
+        "绕过"
+      ],
+      "usphone": "ˈbaɪpæs",
+      "ukphone": "ˈbaɪpɑːs"
+    }
+  ]
+}

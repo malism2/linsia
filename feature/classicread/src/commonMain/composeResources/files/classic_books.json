@@ -1,0 +1,808 @@
+{
+  "version": 1,
+  "updatedAt": "2026-09-01",
+  "collection": "the-guardians-100-best-novels-of-all-time-2026",
+  "source": "html",
+  "books": [
+    {
+      "id": "george-eliot/middlemarch",
+      "rank": 1,
+      "title": "Middlemarch",
+      "author": "George Eliot",
+      "coverUrl": "https://standardebooks.org/images/covers/george-eliot_middlemarch/7b661137bfcb82f7b9a2d798a424225b8abf8b8c/cover@2x.jpg",
+      "epubUrl": "https://standardebooks.org/ebooks/george-eliot/middlemarch/downloads/george-eliot_middlemarch.epub"
+    },
+    {
+      "id": "toni-morrison/beloved",
+      "rank": 2,
+      "title": "Beloved",
+      "author": "Toni Morrison",
+      "coverUrl": "",
+      "epubUrl": ""
+    },
+    {
+      "id": "james-joyce/ulysses",
+      "rank": 3,
+      "title": "Ulysses",
+      "author": "James Joyce",
+      "coverUrl": "https://standardebooks.org/images/covers/james-joyce_ulysses/058b7a1bcabbd5eb354e824db35bb6364a1d09b9/cover@2x.jpg",
+      "epubUrl": "https://standardebooks.org/ebooks/james-joyce/ulysses/downloads/james-joyce_ulysses.epub"
+    },
+    {
+      "id": "virginia-woolf/to-the-lighthouse",
+      "rank": 4,
+      "title": "To the Lighthouse",
+      "author": "Virginia Woolf",
+      "coverUrl": "https://standardebooks.org/images/covers/virginia-woolf_to-the-lighthouse/9b102ec81604211efe28bfa597a0ad9b8de2264f/cover@2x.jpg",
+      "epubUrl": "https://standardebooks.org/ebooks/virginia-woolf/to-the-lighthouse/downloads/virginia-woolf_to-the-lighthouse.epub"
+    },
+    {
+      "id": "marcel-proust/in-search-of-lost-time/c-k-scott-moncrieff",
+      "rank": 5,
+      "title": "In Search of Lost Time",
+      "author": "Marcel Proust",
+      "coverUrl": "https://standardebooks.org/images/covers/marcel-proust_in-search-of-lost-time_c-k-scott-moncrieff/ebafb315fde318a57d0e7da8a0e1036edd473fa9/cover@2x.jpg",
+      "epubUrl": "https://standardebooks.org/ebooks/marcel-proust/in-search-of-lost-time/c-k-scott-moncrieff/downloads/marcel-proust_in-search-of-lost-time_c-k-scott-moncrieff.epub"
+    },
+    {
+      "id": "leo-tolstoy/anna-karenina/constance-garnett",
+      "rank": 6,
+      "title": "Anna Karenina",
+      "author": "Leo Tolstoy",
+      "coverUrl": "https://standardebooks.org/images/covers/leo-tolstoy_anna-karenina_constance-garnett/9e787a2783c64ef44fd342db9f186c1f4b8b5112/cover@2x.jpg",
+      "epubUrl": "https://standardebooks.org/ebooks/leo-tolstoy/anna-karenina/constance-garnett/downloads/leo-tolstoy_anna-karenina_constance-garnett.epub"
+    },
+    {
+      "id": "leo-tolstoy/war-and-peace/louise-maude_aylmer-maude",
+      "rank": 7,
+      "title": "War and Peace",
+      "author": "Leo Tolstoy",
+      "coverUrl": "https://standardebooks.org/images/covers/leo-tolstoy_war-and-peace_louise-maude_aylmer-maude/aa13b9bf94f89e35da9cce5b478b68c9804c31a8/cover@2x.jpg",
+      "epubUrl": "https://standardebooks.org/ebooks/leo-tolstoy/war-and-peace/louise-maude_aylmer-maude/downloads/leo-tolstoy_war-and-peace_louise-maude-aylmer-maude.epub"
+    },
+    {
+      "id": "charlotte-bronte/jane-eyre",
+      "rank": 8,
+      "title": "Jane Eyre",
+      "author": "Charlotte Brontë",
+      "coverUrl": "https://standardebooks.org/images/covers/charlotte-bronte_jane-eyre/315cd8030f893603f1cd1c5df3d11e000bfc3c8f/cover@2x.jpg",
+      "epubUrl": "https://standardebooks.org/ebooks/charlotte-bronte/jane-eyre/downloads/charlotte-bronte_jane-eyre.epub"
+    },
+    {
+      "id": "jane-austen/pride-and-prejudice",
+      "rank": 9,
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "coverUrl": "https://standardebooks.org/images/covers/jane-austen_pride-and-prejudice/495dd49502f1fd5609a27a16f5af2f0a387accb4/cover@2x.jpg",
+      "epubUrl": "https://standardebooks.org/ebooks/jane-austen/pride-and-prejudice/downloads/jane-austen_pride-and-prejudice.epub"
+    },
+    {
+      "id": "gustave-flaubert/madame-bovary/eleanor-marx-aveling",
+      "rank": 10,
+      "title": "Madame Bovary",
+      "author": "Gustave Flaubert",
+      "coverUrl": "https://standardebooks.org/images/covers/gustave-flaubert_madame-bovary_eleanor-marx-aveling/1a7a490bcde8f8d4f179ad2e9c2655ab7b673f9d/cover@2x.jpg",
+      "epubUrl": "https://standardebooks.org/ebooks/gustave-flaubert/madame-bovary/eleanor-marx-aveling/downloads/gustave-flaubert_madame-bovary_eleanor-marx-aveling.epub"
+    },
+    {
+      "id": "f-scott-fitzgerald/the-great-gatsby",
+      "rank": 11,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "coverUrl": "https://standardebooks.org/images/covers/f-scott-fitzgerald_the-great-gatsby/399c03297cdb569cde0a0e487576c5fc3ca96ed3/cover@2x.jpg",
+      "epubUrl": "https://standardebooks.org/ebooks/f-scott-fitzgerald/the-great-gatsby/downloads/f-scott-fitzgerald_the-great-gatsby.epub"
+    },
+    {
+      "id": "charles-dickens/bleak-house",
+      "rank": 12,
+      "title": "Bleak House",
+      "author": "Charles Dickens",
+      "coverUrl": "https://standardebooks.org/images/covers/charles-dickens_bleak-house/d2e22036f973bb9eb7b14a8c455c00b2cc436919/cover@2x.jpg",
+      "epubUrl": "https://standardebooks.org/ebooks/charles-dickens/bleak-house/downloads/charles-dickens_bleak-house.epub"
+    },
+    {
+      "id": "jane-austen/emma",
+      "rank": 13,
+      "title": "Emma",
+      "author": "Jane Austen",
+      "coverUrl": "https://standardebooks.org/images/covers/jane-austen_emma/70dfb3dfc5142a3bef85c87dc9e32a3241b49553/cover@2x.jpg",
+      "epubUrl": "https://standardebooks.org/ebooks/jane-austen/emma/downloads/jane-austen_emma.epub"
+    },
+    {
+      "id": "virginia-woolf/mrs-dalloway",
+      "rank": 14,
+      "title": "Mrs. Dalloway",
+      "author": "Virginia Woolf",
+      "coverUrl": "https://standardebooks.org/images/covers/virginia-woolf_mrs-dalloway/d84e9c4b33b7ac7536d9d793039160c2c28dd750/cover@2x.jpg",
+      "epubUrl": "https://standardebooks.org/ebooks/virginia-woolf/mrs-dalloway/downloads/virginia-woolf_mrs-dalloway.epub"
+    },
+    {
+      "id": "herman-melville/moby-dick",
+      "rank": 15,
+      "title": "Moby Dick",
+      "author": "Herman Melville",
+      "coverUrl": "https://standardebooks.org/images/covers/herman-melville_moby-dick/d30d8f15cb2f832ae68dbbc08e6b2a154aa6d109/cover@2x.jpg",
+      "epubUrl": "https://standardebooks.org/ebooks/herman-melville/moby-dick/downloads/herman-melville_moby-dick.epub"
+    },
+    {
+      "id": "george-orwell/nineteen-eighty-four",
+      "rank": 16,
+      "title": "Nineteen Eighty-Four",
+      "author": "George Orwell",
+      "coverUrl": "",
+      "epubUrl": ""
+    },
+    {
+      "id": "gabriel-garcia-marquez/one-hundred-years-of-solitude/gregory-rabassa",
+      "rank": 17,
+      "title": "One Hundred Years of Solitude",
+      "author": "Gabriel Garcia Márquez",
+      "coverUrl": "",
+      "epubUrl": ""
+    },
+    {
+      "id": "jane-austen/persuasion",
+      "rank": 18,
+      "title": "Persuasion",
+      "author": "Jane Austen",
+      "coverUrl": "https://standardebooks.org/images/covers/jane-austen_persuasion/e80c9b60fbe9897d91b4d5f613ef5802ef4a6894/cover@2x.jpg",
+      "epubUrl": "https://standardebooks.org/ebooks/jane-austen/persuasion/downloads/jane-austen_persuasion.epub"
+    },
+    {
+      "id": "laurence-sterne/the-life-and-opinions-of-tristram-shandy-gentleman",
+      "rank": 19,
+      "title": "The Life and Opinions of Tristram Shandy, Gentleman",
+      "author": "Laurence Sterne",
+      "coverUrl": "https://standardebooks.org/images/covers/laurence-sterne_the-life-and-opinions-of-tristram-shandy-gentleman/dd08e86959c1d43f194f8482755b5035061eb772/cover@2x.jpg",
+      "epubUrl": "https://standardebooks.org/ebooks/laurence-sterne/the-life-and-opinions-of-tristram-shandy-gentleman/downloads/laurence-sterne_the-life-and-opinions-of-tristram-shandy-gentleman.epub"
+    },
+    {
+      "id": "emily-bronte/wuthering-heights",
+      "rank": 20,
+      "title": "Wuthering Heights",
+      "author": "Emily Brontë",
+      "coverUrl": "https://standardebooks.org/images/covers/emily-bronte_wuthering-heights/af03f251f88ce15e63012ad982dc70055b7cd631/cover@2x.jpg",
+      "epubUrl": "https://standardebooks.org/ebooks/emily-bronte/wuthering-heights/downloads/emily-bronte_wuthering-heights.epub"
+    },
+    {
+      "id": "henry-james/the-portrait-of-a-lady",
+      "rank": 21,
+      "title": "The Portrait of a Lady",
+      "author": "Henry James",
+      "coverUrl": "https://standardebooks.org/images/covers/henry-james_the-portrait-of-a-lady/33bd7e8beae8e27f25735a3be5f576c2a6a0681e/cover@2x.jpg",
+      "epubUrl": "https://standardebooks.org/ebooks/henry-james/the-portrait-of-a-lady/downloads/henry-james_the-portrait-of-a-lady.epub"
+    },
+    {
+      "id": "chinua-achebe/things-fall-apart",
+      "rank": 22,
+      "title": "Things Fall Apart",
+      "author": "Chinua Achebe",
+      "coverUrl": "",
+      "epubUrl": ""
+    },
+    {
+      "id": "salman-rushdie/midnights-children",
+      "rank": 23,
+      "title": "Midnight’s Children",
+      "author": "Salman Rushdie",
+      "coverUrl": "",
+      "epubUrl": ""
+    },
+    {
+      "id": "kazuo-ishiguro/the-remains-of-the-day",
+      "rank": 24,
+      "title": "The Remains of the Day",
+      "author": "Kazuo Ishiguro",
+      "coverUrl": "",
+      "epubUrl": ""
+    },
+    {
+      "id": "vladimir-nabokov/lolita",
+      "rank": 25,
+      "title": "Lolita",
+      "author": "Vladimir Nabokov",
+      "coverUrl": "",
+      "epubUrl": ""
+    },
+    {
+      "id": "miguel-de-cervantes-saavedra/don-quixote/john-ormsby",
+      "rank": 26,
+      "title": "Don Quixote",
+      "author": "Miguel de Cervantes Saavedra",
+      "coverUrl": "https://standardebooks.org/images/covers/miguel-de-cervantes-saavedra_don-quixote_john-ormsby/f41dff1317a9f7a48724b6481fa30696a8c28611/cover@2x.jpg",
+      "epubUrl": "https://standardebooks.org/ebooks/miguel-de-cervantes-saavedra/don-quixote/john-ormsby/downloads/miguel-de-cervantes-saavedra_don-quixote_john-ormsby.epub"
+    },
+    {
+      "id": "franz-kafka/the-trial/edwin-muir_willa-muir",
+      "rank": 27,
+      "title": "The Trial",
+      "author": "Franz Kafka",
+      "coverUrl": "",
+      "epubUrl": ""
+    },
+    {
+      "id": "fyodor-dostoevsky/the-brothers-karamazov/constance-garnett",
+      "rank": 28,
+      "title": "The Brothers Karamazov",
+      "author": "Fyodor Dostoevsky",
+      "coverUrl": "https://standardebooks.org/images/covers/fyodor-dostoevsky_the-brothers-karamazov_constance-garnett/780fd307fad5956e4585a8dcb7b43d2279c4a5d0/cover@2x.jpg",
+      "epubUrl": "https://standardebooks.org/ebooks/fyodor-dostoevsky/the-brothers-karamazov/constance-garnett/downloads/fyodor-dostoevsky_the-brothers-karamazov_constance-garnett.epub"
+    },
+    {
+      "id": "vladimir-nabokov/pale-fire",
+      "rank": 29,
+      "title": "Pale Fire",
+      "author": "Vladimir Nabokov",
+      "coverUrl": "",
+      "epubUrl": ""
+    },
+    {
+      "id": "mary-shelley/frankenstein",
+      "rank": 30,
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "coverUrl": "https://standardebooks.org/images/covers/mary-shelley_frankenstein/a2a4d948cd6d7eaa6bd1ce223fe17e4380689b5a/cover@2x.jpg",
+      "epubUrl": "https://standardebooks.org/ebooks/mary-shelley/frankenstein/downloads/mary-shelley_frankenstein.epub"
+    },
+    {
+      "id": "muriel-spark/the-prime-of-miss-jean-brodie",
+      "rank": 31,
+      "title": "The Prime of Miss Jean Brodie",
+      "author": "Muriel Spark",
+      "coverUrl": "",
+      "epubUrl": ""
+    },
+    {
+      "id": "arundhati-roy/the-god-of-small-things",
+      "rank": 32,
+      "title": "The God of Small Things",
+      "author": "Arundhati Roy",
+      "coverUrl": "",
+      "epubUrl": ""
+    },
+    {
+      "id": "charles-dickens/david-copperfield",
+      "rank": 33,
+      "title": "David Copperfield",
+      "author": "Charles Dickens",
+      "coverUrl": "https://standardebooks.org/images/covers/charles-dickens_david-copperfield/7e8c95a4a3aacaaa3782847fed6c46b06e4d79bf/cover@2x.jpg",
+      "epubUrl": "https://standardebooks.org/ebooks/charles-dickens/david-copperfield/downloads/charles-dickens_david-copperfield.epub"
+    },
+    {
+      "id": "hilary-mantel/wolf-hall",
+      "rank": 34,
+      "title": "Wolf Hall",
+      "author": "Hilary Mantel",
+      "coverUrl": "",
+      "epubUrl": ""
+    },
+    {
+      "id": "charles-dickens/great-expectations",
+      "rank": 35,
+      "title": "Great Expectations",
+      "author": "Charles Dickens",
+      "coverUrl": "https://standardebooks.org/images/covers/charles-dickens_great-expectations/394455ac763070b923135ddcea8a86631392f348/cover@2x.jpg",
+      "epubUrl": "https://standardebooks.org/ebooks/charles-dickens/great-expectations/downloads/charles-dickens_great-expectations.epub"
+    },
+    {
+      "id": "margaret-atwood/the-handmaids-tale",
+      "rank": 36,
+      "title": "The Handmaid’s Tale",
+      "author": "Margaret Atwood",
+      "coverUrl": "",
+      "epubUrl": ""
+    },
+    {
+      "id": "ralph-ellison/invisible-man",
+      "rank": 37,
+      "title": "Invisible Man",
+      "author": "Ralph Ellison",
+      "coverUrl": "",
+      "epubUrl": ""
+    },
+    {
+      "id": "edith-wharton/the-age-of-innocence",
+      "rank": 38,
+      "title": "The Age of Innocence",
+      "author": "Edith Wharton",
+      "coverUrl": "https://standardebooks.org/images/covers/edith-wharton_the-age-of-innocence/efd715714b00ae040519bedc1b2840c0b44182ee/cover@2x.jpg",
+      "epubUrl": "https://standardebooks.org/ebooks/edith-wharton/the-age-of-innocence/downloads/edith-wharton_the-age-of-innocence.epub"
+    },
+    {
+      "id": "zora-neale-hurston/their-eyes-were-watching-god",
+      "rank": 39,
+      "title": "Their Eyes Were Watching God",
+      "author": "Zora Neale Hurston",
+      "coverUrl": "",
+      "epubUrl": ""
+    },
+    {
+      "id": "toni-morrison/song-of-solomon",
+      "rank": 40,
+      "title": "Song of Solomon",
+      "author": "Toni Morrison",
+      "coverUrl": "",
+      "epubUrl": ""
+    },
+    {
+      "id": "joseph-conrad/heart-of-darkness",
+      "rank": 41,
+      "title": "Heart of Darkness",
+      "author": "Joseph Conrad",
+      "coverUrl": "https://standardebooks.org/images/covers/joseph-conrad_heart-of-darkness/ba5c557b36c4ef70f47ce269c0e63958905590ab/cover@2x.jpg",
+      "epubUrl": "https://standardebooks.org/ebooks/joseph-conrad/heart-of-darkness/downloads/joseph-conrad_heart-of-darkness.epub"
+    },
+    {
+      "id": "thomas-mann/the-magic-mountain/h-t-lowe-porter",
+      "rank": 42,
+      "title": "The Magic Mountain",
+      "author": "Thomas Mann",
+      "coverUrl": "https://standardebooks.org/images/covers/thomas-mann_the-magic-mountain_h-t-lowe-porter/47ffd6f17a3d63f695684b5262225f46cda6cfce/cover@2x.jpg",
+      "epubUrl": "https://standardebooks.org/ebooks/thomas-mann/the-magic-mountain/h-t-lowe-porter/downloads/thomas-mann_the-magic-mountain_h-t-lowe-porter.epub"
+    },
+    {
+      "id": "marilynne-robinson/housekeeping",
+      "rank": 43,
+      "title": "Housekeeping",
+      "author": "Marilynne Robinson",
+      "coverUrl": "",
+      "epubUrl": ""
+    },
+    {
+      "id": "james-baldwin/giovannis-room",
+      "rank": 44,
+      "title": "Giovanni’s Room",
+      "author": "James Baldwin",
+      "coverUrl": "",
+      "epubUrl": ""
+    },
+    {
+      "id": "doris-may-lessing/the-golden-notebook",
+      "rank": 45,
+      "title": "The Golden Notebook",
+      "author": "Doris May Lessing",
+      "coverUrl": "",
+      "epubUrl": ""
+    },
+    {
+      "id": "giuseppe-tomasi-di-lampedusa/the-leopard",
+      "rank": 46,
+      "title": "The Leopard",
+      "author": "Giuseppe Tomasi di Lampedusa",
+      "coverUrl": "",
+      "epubUrl": ""
+    },
+    {
+      "id": "william-makepeace-thackeray/vanity-fair",
+      "rank": 47,
+      "title": "Vanity Fair",
+      "author": "William Makepeace Thackeray",
+      "coverUrl": "https://standardebooks.org/images/covers/william-makepeace-thackeray_vanity-fair/5fe60697e4189b13c4c2c32e15ab9595be213fd6/cover@2x.jpg",
+      "epubUrl": "https://standardebooks.org/ebooks/william-makepeace-thackeray/vanity-fair/downloads/william-makepeace-thackeray_vanity-fair.epub"
+    },
+    {
+      "id": "franz-kafka/the-metamorphosis/willa-muir_edwin-muir",
+      "rank": 48,
+      "title": "The Metamorphosis",
+      "author": "Franz Kafka",
+      "coverUrl": "",
+      "epubUrl": ""
+    },
+    {
+      "id": "rohinton-mistry/a-fine-balance",
+      "rank": 49,
+      "title": "A Fine Balance",
+      "author": "Rohinton Mistry",
+      "coverUrl": "",
+      "epubUrl": ""
+    },
+    {
+      "id": "jean-rhys/wide-sargasso-sea",
+      "rank": 50,
+      "title": "Wide Sargasso Sea",
+      "author": "Jean Rhys",
+      "coverUrl": "",
+      "epubUrl": ""
+    },
+    {
+      "id": "elena-ferrante/my-brilliant-friend",
+      "rank": 51,
+      "title": "My Brilliant Friend",
+      "author": "Elena Ferrante",
+      "coverUrl": "",
+      "epubUrl": ""
+    },
+    {
+      "id": "henry-james/the-golden-bowl",
+      "rank": 52,
+      "title": "The Golden Bowl",
+      "author": "Henry James",
+      "coverUrl": "https://standardebooks.org/images/covers/henry-james_the-golden-bowl/79e49defcf43fab682b09c33205dd03f0f5ebdb2/cover@2x.jpg",
+      "epubUrl": "https://standardebooks.org/ebooks/henry-james/the-golden-bowl/downloads/henry-james_the-golden-bowl.epub"
+    },
+    {
+      "id": "shirley-hazzard/the-transit-of-venus",
+      "rank": 53,
+      "title": "The Transit of Venus",
+      "author": "Shirley Hazzard",
+      "coverUrl": "",
+      "epubUrl": ""
+    },
+    {
+      "id": "virginia-woolf/orlando",
+      "rank": 54,
+      "title": "Orlando",
+      "author": "Virginia Woolf",
+      "coverUrl": "https://standardebooks.org/images/covers/virginia-woolf_orlando/4ce30f4a32b9f17a3ec02c8a3fd0cf73d347876d/cover@2x.jpg",
+      "epubUrl": "https://standardebooks.org/ebooks/virginia-woolf/orlando/downloads/virginia-woolf_orlando.epub"
+    },
+    {
+      "id": "virginia-woolf/the-waves",
+      "rank": 55,
+      "title": "The Waves",
+      "author": "Virginia Woolf",
+      "coverUrl": "",
+      "epubUrl": ""
+    },
+    {
+      "id": "jane-austen/mansfield-park",
+      "rank": 56,
+      "title": "Mansfield Park",
+      "author": "Jane Austen",
+      "coverUrl": "https://standardebooks.org/images/covers/jane-austen_mansfield-park/d6b15e98d1827b91a1a38eb8b8b95621a9e3966b/cover@2x.jpg",
+      "epubUrl": "https://standardebooks.org/ebooks/jane-austen/mansfield-park/downloads/jane-austen_mansfield-park.epub"
+    },
+    {
+      "id": "william-faulkner/the-sound-and-the-fury",
+      "rank": 57,
+      "title": "The Sound and the Fury",
+      "author": "William Faulkner",
+      "coverUrl": "https://standardebooks.org/images/covers/william-faulkner_the-sound-and-the-fury/fe223ddd2685f5fbda77d3a1e8db0f0c72c5f969/cover@2x.jpg",
+      "epubUrl": "https://standardebooks.org/ebooks/william-faulkner/the-sound-and-the-fury/downloads/william-faulkner_the-sound-and-the-fury.epub"
+    },
+    {
+      "id": "j-m-coetzee/disgrace",
+      "rank": 58,
+      "title": "Disgrace",
+      "author": "J. M. Coetzee",
+      "coverUrl": "",
+      "epubUrl": ""
+    },
+    {
+      "id": "kazuo-ishiguro/never-let-me-go",
+      "rank": 59,
+      "title": "Never Let Me Go",
+      "author": "Kazuo Ishiguro",
+      "coverUrl": "",
+      "epubUrl": ""
+    },
+    {
+      "id": "e-m-forster/howards-end",
+      "rank": 60,
+      "title": "Howards End",
+      "author": "E. M. Forster",
+      "coverUrl": "https://standardebooks.org/images/covers/e-m-forster_howards-end/e83034427e29416023331685e1b390b4a17bfc18/cover@2x.jpg",
+      "epubUrl": "https://standardebooks.org/ebooks/e-m-forster/howards-end/downloads/e-m-forster_howards-end.epub"
+    },
+    {
+      "id": "w-g-sebald/the-rings-of-saturn",
+      "rank": 61,
+      "title": "The Rings of Saturn",
+      "author": "W. G. Sebald",
+      "coverUrl": "",
+      "epubUrl": ""
+    },
+    {
+      "id": "chimamanda-ngozi-adichie/half-of-a-yellow-sun",
+      "rank": 62,
+      "title": "Half of a Yellow Sun",
+      "author": "Chimamanda Ngozi Adichie",
+      "coverUrl": "",
+      "epubUrl": ""
+    },
+    {
+      "id": "zadie-smith/white-teeth",
+      "rank": 63,
+      "title": "White Teeth",
+      "author": "Zadie Smith",
+      "coverUrl": "",
+      "epubUrl": ""
+    },
+    {
+      "id": "ford-madox-ford/the-good-soldier",
+      "rank": 64,
+      "title": "The Good Soldier",
+      "author": "Ford Madox Ford",
+      "coverUrl": "https://standardebooks.org/images/covers/ford-madox-ford_the-good-soldier/3ab372655b701152f3384461e801e97df126c640/cover@2x.jpg",
+      "epubUrl": "https://standardebooks.org/ebooks/ford-madox-ford/the-good-soldier/downloads/ford-madox-ford_the-good-soldier.epub"
+    },
+    {
+      "id": "alice-walker/the-color-purple",
+      "rank": 65,
+      "title": "The Color Purple",
+      "author": "Alice Walker",
+      "coverUrl": "",
+      "epubUrl": ""
+    },
+    {
+      "id": "mikhail-bulgakov/the-master-and-margarita/michael-glenny",
+      "rank": 66,
+      "title": "The Master and Margarita",
+      "author": "Mikhail Bulgakov",
+      "coverUrl": "",
+      "epubUrl": ""
+    },
+    {
+      "id": "robert-musil/the-man-without-qualities/eithne-wilkins_ernst-kaiser",
+      "rank": 67,
+      "title": "The Man Without Qualities",
+      "author": "Robert Musil",
+      "coverUrl": "",
+      "epubUrl": ""
+    },
+    {
+      "id": "cormac-mccarthy/blood-meridian",
+      "rank": 68,
+      "title": "Blood Meridian",
+      "author": "Cormac McCarthy",
+      "coverUrl": "",
+      "epubUrl": ""
+    },
+    {
+      "id": "fyodor-dostoevsky/crime-and-punishment/constance-garnett",
+      "rank": 69,
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "coverUrl": "https://standardebooks.org/images/covers/fyodor-dostoevsky_crime-and-punishment_constance-garnett/79f3212ab29250fa73d7e66149549c9d736466df/cover@2x.jpg",
+      "epubUrl": "https://standardebooks.org/ebooks/fyodor-dostoevsky/crime-and-punishment/constance-garnett/downloads/fyodor-dostoevsky_crime-and-punishment_constance-garnett.epub"
+    },
+    {
+      "id": "thomas-hardy/jude-the-obscure",
+      "rank": 70,
+      "title": "Jude the Obscure",
+      "author": "Thomas Hardy",
+      "coverUrl": "https://standardebooks.org/images/covers/thomas-hardy_jude-the-obscure/07b1199a834266d99a9eb04c3c54b6d472090c4e/cover@2x.jpg",
+      "epubUrl": "https://standardebooks.org/ebooks/thomas-hardy/jude-the-obscure/downloads/thomas-hardy_jude-the-obscure.epub"
+    },
+    {
+      "id": "albert-camus/the-stranger/stuart-gilbert",
+      "rank": 71,
+      "title": "The Stranger",
+      "author": "Albert Camus",
+      "coverUrl": "",
+      "epubUrl": ""
+    },
+    {
+      "id": "octavia-e-butler/kindred",
+      "rank": 72,
+      "title": "Kindred",
+      "author": "Octavia E. Butler",
+      "coverUrl": "",
+      "epubUrl": ""
+    },
+    {
+      "id": "charles-dickens/our-mutual-friend",
+      "rank": 73,
+      "title": "Our Mutual Friend",
+      "author": "Charles Dickens",
+      "coverUrl": "https://standardebooks.org/images/covers/charles-dickens_our-mutual-friend/b0aad4f2db0705c3d41f3db0904d6a7c04947caf/cover@2x.jpg",
+      "epubUrl": "https://standardebooks.org/ebooks/charles-dickens/our-mutual-friend/downloads/charles-dickens_our-mutual-friend.epub"
+    },
+    {
+      "id": "w-g-sebald/austerlitz",
+      "rank": 74,
+      "title": "Austerlitz",
+      "author": "W. G. Sebald",
+      "coverUrl": "",
+      "epubUrl": ""
+    },
+    {
+      "id": "tsitsi-dangarembga/nervous-conditions",
+      "rank": 75,
+      "title": "Nervous Conditions",
+      "author": "Tsitsi Dangarembga",
+      "coverUrl": "",
+      "epubUrl": ""
+    },
+    {
+      "id": "toni-morrison/the-bluest-eye",
+      "rank": 76,
+      "title": "The Bluest Eye",
+      "author": "Toni Morrison",
+      "coverUrl": "",
+      "epubUrl": ""
+    },
+    {
+      "id": "bram-stoker/dracula",
+      "rank": 77,
+      "title": "Dracula",
+      "author": "Bram Stoker",
+      "coverUrl": "https://standardebooks.org/images/covers/bram-stoker_dracula/a02c17aca72aec342c861065c62cd25559a6d960/cover@2x.jpg",
+      "epubUrl": "https://standardebooks.org/ebooks/bram-stoker/dracula/downloads/bram-stoker_dracula.epub"
+    },
+    {
+      "id": "willa-cather/my-antonia",
+      "rank": 78,
+      "title": "My Ántonia",
+      "author": "Willa Cather",
+      "coverUrl": "https://standardebooks.org/images/covers/willa-cather_my-antonia/7afa769995d3e30b3a3a9a4a2ba8dc95acaa507e/cover@2x.jpg",
+      "epubUrl": "https://standardebooks.org/ebooks/willa-cather/my-antonia/downloads/willa-cather_my-antonia.epub"
+    },
+    {
+      "id": "d-h-lawrence/the-rainbow",
+      "rank": 79,
+      "title": "The Rainbow",
+      "author": "D. H. Lawrence",
+      "coverUrl": "https://standardebooks.org/images/covers/d-h-lawrence_the-rainbow/928f9fd02cbf6a93df167e65c049609ecbd81b39/cover@2x.jpg",
+      "epubUrl": "https://standardebooks.org/ebooks/d-h-lawrence/the-rainbow/downloads/d-h-lawrence_the-rainbow.epub"
+    },
+    {
+      "id": "v-s-naipaul/a-house-for-mr-biswas",
+      "rank": 80,
+      "title": "A House for Mr. Biswas",
+      "author": "V. S. Naipaul",
+      "coverUrl": "",
+      "epubUrl": ""
+    },
+    {
+      "id": "james-baldwin/go-tell-it-on-the-mountain",
+      "rank": 81,
+      "title": "Go Tell It on the Mountain",
+      "author": "James Baldwin",
+      "coverUrl": "",
+      "epubUrl": ""
+    },
+    {
+      "id": "daphne-du-maurier/rebecca",
+      "rank": 82,
+      "title": "Rebecca",
+      "author": "Daphne Du Maurier",
+      "coverUrl": "",
+      "epubUrl": ""
+    },
+    {
+      "id": "thomas-mann/buddenbrooks/h-t-lowe-porter",
+      "rank": 83,
+      "title": "Buddenbrooks",
+      "author": "Thomas Mann",
+      "coverUrl": "https://standardebooks.org/images/covers/thomas-mann_buddenbrooks_h-t-lowe-porter/f77efa340ce39b11c2ac88b8ba8535717b570563/cover@2x.jpg",
+      "epubUrl": "https://standardebooks.org/ebooks/thomas-mann/buddenbrooks/h-t-lowe-porter/downloads/thomas-mann_buddenbrooks_h-t-lowe-porter.epub"
+    },
+    {
+      "id": "graham-greene/the-end-of-the-affair",
+      "rank": 84,
+      "title": "The End of the Affair",
+      "author": "Graham Greene",
+      "coverUrl": "",
+      "epubUrl": ""
+    },
+    {
+      "id": "ernest-hemingway/a-farewell-to-arms",
+      "rank": 85,
+      "title": "A Farewell to Arms",
+      "author": "Ernest Hemingway",
+      "coverUrl": "https://standardebooks.org/images/covers/ernest-hemingway_a-farewell-to-arms/04be5a7be090907c6c5d711f127e56a33cc17ffb/cover@2x.jpg",
+      "epubUrl": "https://standardebooks.org/ebooks/ernest-hemingway/a-farewell-to-arms/downloads/ernest-hemingway_a-farewell-to-arms.epub"
+    },
+    {
+      "id": "patricia-highsmith/the-talented-mr-ripley",
+      "rank": 86,
+      "title": "The Talented Mr. Ripley",
+      "author": "Patricia Highsmith",
+      "coverUrl": "",
+      "epubUrl": ""
+    },
+    {
+      "id": "han-kang/the-vegetarian",
+      "rank": 87,
+      "title": "The Vegetarian",
+      "author": "Han Kang",
+      "coverUrl": "",
+      "epubUrl": ""
+    },
+    {
+      "id": "henry-james/the-turn-of-the-screw",
+      "rank": 88,
+      "title": "The Turn of the Screw",
+      "author": "Henry James",
+      "coverUrl": "https://standardebooks.org/images/covers/henry-james_the-turn-of-the-screw/68b2fb0f363354af3605068c2119ab13e915b29f/cover@2x.jpg",
+      "epubUrl": "https://standardebooks.org/ebooks/henry-james/the-turn-of-the-screw/downloads/henry-james_the-turn-of-the-screw.epub"
+    },
+    {
+      "id": "alan-hollinghurst/the-line-of-beauty",
+      "rank": 89,
+      "title": "The Line of Beauty",
+      "author": "Alan Hollinghurst",
+      "coverUrl": "",
+      "epubUrl": ""
+    },
+    {
+      "id": "e-l-doctorow/ragtime",
+      "rank": 90,
+      "title": "Ragtime",
+      "author": "E. L. Doctorow",
+      "coverUrl": "",
+      "epubUrl": ""
+    },
+    {
+      "id": "ursula-k-le-guin/the-left-hand-of-darkness",
+      "rank": 91,
+      "title": "The Left Hand of Darkness",
+      "author": "Ursula K. Le Guin",
+      "coverUrl": "",
+      "epubUrl": ""
+    },
+    {
+      "id": "virginia-woolf/jacobs-room",
+      "rank": 92,
+      "title": "Jacob’s Room",
+      "author": "Virginia Woolf",
+      "coverUrl": "https://standardebooks.org/images/covers/virginia-woolf_jacobs-room/4923abd726b5a6d94ed2189d0a398361982caa36/cover@2x.jpg",
+      "epubUrl": "https://standardebooks.org/ebooks/virginia-woolf/jacobs-room/downloads/virginia-woolf_jacobs-room.epub"
+    },
+    {
+      "id": "vasily-grossman/life-and-fate",
+      "rank": 93,
+      "title": "Life and Fate",
+      "author": "Vasily Grossman",
+      "coverUrl": "",
+      "epubUrl": ""
+    },
+    {
+      "id": "gustave-flaubert/sentimental-education/m-walter-dunne",
+      "rank": 94,
+      "title": "Sentimental Education",
+      "author": "Gustave Flaubert",
+      "coverUrl": "",
+      "epubUrl": ""
+    },
+    {
+      "id": "italo-calvino/invisible-cities",
+      "rank": 95,
+      "title": "Invisible Cities",
+      "author": "Italo Calvino",
+      "coverUrl": "",
+      "epubUrl": ""
+    },
+    {
+      "id": "edward-p-jones/the-known-world",
+      "rank": 96,
+      "title": "The Known World",
+      "author": "Edward P. Jones",
+      "coverUrl": "",
+      "epubUrl": ""
+    },
+    {
+      "id": "thomas-hardy/the-return-of-the-native",
+      "rank": 97,
+      "title": "The Return of the Native",
+      "author": "Thomas Hardy",
+      "coverUrl": "https://standardebooks.org/images/covers/thomas-hardy_the-return-of-the-native/93d3ffc139463a0b1bcba459d588f10915b8f9af/cover@2x.jpg",
+      "epubUrl": "https://standardebooks.org/ebooks/thomas-hardy/the-return-of-the-native/downloads/thomas-hardy_the-return-of-the-native.epub"
+    },
+    {
+      "id": "juan-rulfo/pedro-paramo",
+      "rank": 98,
+      "title": "Pedro Páramo",
+      "author": "Juan Rulfo",
+      "coverUrl": "",
+      "epubUrl": ""
+    },
+    {
+      "id": "joseph-heller/catch-22",
+      "rank": 99,
+      "title": "Catch-22",
+      "author": "Joseph Heller",
+      "coverUrl": "",
+      "epubUrl": ""
+    },
+    {
+      "id": "cormac-mccarthy/the-road",
+      "rank": 100,
+      "title": "The Road",
+      "author": "Cormac McCarthy",
+      "coverUrl": "",
+      "epubUrl": ""
+    }
+  ]
+}

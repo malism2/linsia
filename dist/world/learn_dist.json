@@ -1,0 +1,70 @@
+{
+  "version": 10,
+  "reops": [
+    {
+      "title": "四级真题核心词",
+      "name": "CET4luan_1",
+      "url": "https://lr3rsi02p2te.compat.objectstorage.uk-london-1.oraclecloud.com/bucket-linsia/CET4luan_1.zip"
+    },
+    {
+      "title": "六级真题核心词",
+      "name": "CET6luan_1",
+      "url": "https://lr3rsi02p2te.compat.objectstorage.uk-london-1.oraclecloud.com/bucket-linsia/CET6luan_1.zip"
+    },
+    {
+      "title": "考研必考词汇",
+      "name": "KaoYanluan_1",
+      "url": "https://lr3rsi02p2te.compat.objectstorage.uk-london-1.oraclecloud.com/bucket-linsia/KaoYanluan_1.zip"
+    },
+    {
+      "title": "专四真题高频词",
+      "name": "Level4luan_1",
+      "url": "https://lr3rsi02p2te.compat.objectstorage.uk-london-1.oraclecloud.com/bucket-linsia/Level4luan_1.zip"
+    },
+    {
+      "title": "专八真题高频词",
+      "name": "Level8luan_1",
+      "url": "https://lr3rsi02p2te.compat.objectstorage.uk-london-1.oraclecloud.com/bucket-linsia/Level8luan_1.zip"
+    },
+    {
+      "title": "四级英语词汇",
+      "name": "CET4luan_2",
+      "url": "https://lr3rsi02p2te.compat.objectstorage.uk-london-1.oraclecloud.com/bucket-linsia/CET4luan_2.zip"
+    },
+    {
+      "title": "六级英语词汇",
+      "name": "CET6luan_2",
+      "url": "https://lr3rsi02p2te.compat.objectstorage.uk-london-1.oraclecloud.com/bucket-linsia/CET6luan_2.zip"
+    },
+    {
+      "title": "考研英语词汇",
+      "name": "KaoYanluan_2",
+      "url": "https://lr3rsi02p2te.compat.objectstorage.uk-london-1.oraclecloud.com/bucket-linsia/KaoYanluan_2.zip"
+    },
+    {
+      "title": "雅思词汇",
+      "name": "IELTSluan_2",
+      "url": "https://lr3rsi02p2te.compat.objectstorage.uk-london-1.oraclecloud.com/bucket-linsia/IELTSluan_2.zip"
+    },
+    {
+      "title": "托福词汇",
+      "name": "TOEFLluan_2",
+      "url": "https://lr3rsi02p2te.compat.objectstorage.uk-london-1.oraclecloud.com/bucket-linsia/TOEFLluan_2.zip"
+    },
+    {
+      "title": "GRE词汇",
+      "name": "GREluan_2",
+      "url": "https://lr3rsi02p2te.compat.objectstorage.uk-london-1.oraclecloud.com/bucket-linsia/GREluan_2.zip"
+    },
+    {
+      "title": "中考必备词汇",
+      "name": "ChuZhongluan_2",
+      "url": "https://lr3rsi02p2te.compat.objectstorage.uk-london-1.oraclecloud.com/bucket-linsia/ChuZhongluan_2.zip"
+    },
+    {
+      "title": "高考必备词汇",
+      "name": "GaoZhongluan_2",
+      "url": "https://lr3rsi02p2te.compat.objectstorage.uk-london-1.oraclecloud.com/bucket-linsia/GaoZhongluan_2.zip"
+    }
+  ]
+}

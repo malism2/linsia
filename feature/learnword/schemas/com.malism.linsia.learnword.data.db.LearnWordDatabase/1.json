@@ -1,0 +1,392 @@
+{
+  "formatVersion": 1,
+  "database": {
+    "version": 1,
+    "identityHash": "e4aac480ac1580ae7b40bab185956200",
+    "entities": [
+      {
+        "tableName": "word_book_meta",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`name` TEXT NOT NULL, `title` TEXT NOT NULL, `url` TEXT NOT NULL, `bundled` INTEGER NOT NULL, `imported` INTEGER NOT NULL, `importedAt` INTEGER, PRIMARY KEY(`name`))",
+        "fields": [
+          {
+            "fieldPath": "name",
+            "columnName": "name",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "title",
+            "columnName": "title",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "url",
+            "columnName": "url",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "bundled",
+            "columnName": "bundled",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "imported",
+            "columnName": "imported",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "importedAt",
+            "columnName": "importedAt",
+            "affinity": "INTEGER"
+          }
+        ],
+        "primaryKey": {
+          "autoGenerate": false,
+          "columnNames": [
+            "name"
+          ]
+        }
+      },
+      {
+        "tableName": "catalog_state",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`id` INTEGER NOT NULL, `version` INTEGER NOT NULL, `updatedAt` INTEGER NOT NULL, PRIMARY KEY(`id`))",
+        "fields": [
+          {
+            "fieldPath": "id",
+            "columnName": "id",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "version",
+            "columnName": "version",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "updatedAt",
+            "columnName": "updatedAt",
+            "affinity": "INTEGER",
+            "notNull": true
+          }
+        ],
+        "primaryKey": {
+          "autoGenerate": false,
+          "columnNames": [
+            "id"
+          ]
+        }
+      },
+      {
+        "tableName": "words",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`id` INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, `bookId` TEXT NOT NULL, `headWord` TEXT NOT NULL, `ukPhone` TEXT, `usPhone` TEXT, `transJson` TEXT NOT NULL, `sentenceJson` TEXT, `extraJson` TEXT, `ordinal` INTEGER NOT NULL)",
+        "fields": [
+          {
+            "fieldPath": "id",
+            "columnName": "id",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "bookId",
+            "columnName": "bookId",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "headWord",
+            "columnName": "headWord",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "ukPhone",
+            "columnName": "ukPhone",
+            "affinity": "TEXT"
+          },
+          {
+            "fieldPath": "usPhone",
+            "columnName": "usPhone",
+            "affinity": "TEXT"
+          },
+          {
+            "fieldPath": "transJson",
+            "columnName": "transJson",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "sentenceJson",
+            "columnName": "sentenceJson",
+            "affinity": "TEXT"
+          },
+          {
+            "fieldPath": "extraJson",
+            "columnName": "extraJson",
+            "affinity": "TEXT"
+          },
+          {
+            "fieldPath": "ordinal",
+            "columnName": "ordinal",
+            "affinity": "INTEGER",
+            "notNull": true
+          }
+        ],
+        "primaryKey": {
+          "autoGenerate": true,
+          "columnNames": [
+            "id"
+          ]
+        },
+        "indices": [
+          {
+            "name": "index_words_bookId_ordinal",
+            "unique": false,
+            "columnNames": [
+              "bookId",
+              "ordinal"
+            ],
+            "orders": [],
+            "createSql": "CREATE INDEX IF NOT EXISTS `index_words_bookId_ordinal` ON `${TABLE_NAME}` (`bookId`, `ordinal`)"
+          }
+        ]
+      },
+      {
+        "tableName": "word_progress",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`bookId` TEXT NOT NULL, `wordId` INTEGER NOT NULL, `easeFactor` REAL NOT NULL, `intervalDays` INTEGER NOT NULL, `repetitions` INTEGER NOT NULL, `nextReviewEpochDay` INTEGER, `lastReviewEpochDay` INTEGER, `seen` INTEGER NOT NULL, PRIMARY KEY(`bookId`, `wordId`))",
+        "fields": [
+          {
+            "fieldPath": "bookId",
+            "columnName": "bookId",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "wordId",
+            "columnName": "wordId",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "easeFactor",
+            "columnName": "easeFactor",
+            "affinity": "REAL",
+            "notNull": true
+          },
+          {
+            "fieldPath": "intervalDays",
+            "columnName": "intervalDays",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "repetitions",
+            "columnName": "repetitions",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "nextReviewEpochDay",
+            "columnName": "nextReviewEpochDay",
+            "affinity": "INTEGER"
+          },
+          {
+            "fieldPath": "lastReviewEpochDay",
+            "columnName": "lastReviewEpochDay",
+            "affinity": "INTEGER"
+          },
+          {
+            "fieldPath": "seen",
+            "columnName": "seen",
+            "affinity": "INTEGER",
+            "notNull": true
+          }
+        ],
+        "primaryKey": {
+          "autoGenerate": false,
+          "columnNames": [
+            "bookId",
+            "wordId"
+          ]
+        }
+      },
+      {
+        "tableName": "user_study_settings",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`id` INTEGER NOT NULL, `dailyNewWords` INTEGER NOT NULL, `activeBookId` TEXT NOT NULL, `accentUk` INTEGER NOT NULL, PRIMARY KEY(`id`))",
+        "fields": [
+          {
+            "fieldPath": "id",
+            "columnName": "id",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "dailyNewWords",
+            "columnName": "dailyNewWords",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "activeBookId",
+            "columnName": "activeBookId",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "accentUk",
+            "columnName": "accentUk",
+            "affinity": "INTEGER",
+            "notNull": true
+          }
+        ],
+        "primaryKey": {
+          "autoGenerate": false,
+          "columnNames": [
+            "id"
+          ]
+        }
+      },
+      {
+        "tableName": "daily_study_log",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`date` TEXT NOT NULL, `bookId` TEXT NOT NULL, `newGraduated` INTEGER NOT NULL, `reviewGraduated` INTEGER NOT NULL, `durationSec` INTEGER NOT NULL, `firstPassCorrect` INTEGER NOT NULL, `totalEncounters` INTEGER NOT NULL, `taskCompleted` INTEGER NOT NULL, PRIMARY KEY(`date`, `bookId`))",
+        "fields": [
+          {
+            "fieldPath": "date",
+            "columnName": "date",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "bookId",
+            "columnName": "bookId",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "newGraduated",
+            "columnName": "newGraduated",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "reviewGraduated",
+            "columnName": "reviewGraduated",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "durationSec",
+            "columnName": "durationSec",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "firstPassCorrect",
+            "columnName": "firstPassCorrect",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "totalEncounters",
+            "columnName": "totalEncounters",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "taskCompleted",
+            "columnName": "taskCompleted",
+            "affinity": "INTEGER",
+            "notNull": true
+          }
+        ],
+        "primaryKey": {
+          "autoGenerate": false,
+          "columnNames": [
+            "date",
+            "bookId"
+          ]
+        }
+      },
+      {
+        "tableName": "active_session",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`id` INTEGER NOT NULL, `date` TEXT NOT NULL, `bookId` TEXT NOT NULL, `queueJson` TEXT NOT NULL, `graduatedJson` TEXT NOT NULL, `firstPassCorrect` INTEGER NOT NULL, `totalEncounters` INTEGER NOT NULL, `elapsedSec` INTEGER NOT NULL, `completed` INTEGER NOT NULL, `leftoverJson` TEXT NOT NULL, PRIMARY KEY(`id`))",
+        "fields": [
+          {
+            "fieldPath": "id",
+            "columnName": "id",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "date",
+            "columnName": "date",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "bookId",
+            "columnName": "bookId",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "queueJson",
+            "columnName": "queueJson",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "graduatedJson",
+            "columnName": "graduatedJson",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "firstPassCorrect",
+            "columnName": "firstPassCorrect",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "totalEncounters",
+            "columnName": "totalEncounters",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "elapsedSec",
+            "columnName": "elapsedSec",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "completed",
+            "columnName": "completed",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "leftoverJson",
+            "columnName": "leftoverJson",
+            "affinity": "TEXT",
+            "notNull": true
+          }
+        ],
+        "primaryKey": {
+          "autoGenerate": false,
+          "columnNames": [
+            "id"
+          ]
+        }
+      }
+    ],
+    "setupQueries": [
+      "CREATE TABLE IF NOT EXISTS room_master_table (id INTEGER PRIMARY KEY,identity_hash TEXT)",
+      "INSERT OR REPLACE INTO room_master_table (id,identity_hash) VALUES(42, 'e4aac480ac1580ae7b40bab185956200')"
+    ]
+  }
+}

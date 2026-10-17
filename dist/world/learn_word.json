@@ -1,0 +1,70 @@
+{
+    "version": 10,
+    "reops": [
+        {
+            "title": "四级真题核心词",
+            "name": "CET4luan_1",
+            "url": "https://github.com/kajweb/dict/raw/refs/heads/master/book/1523620217431_CET4luan_1.zip"
+        },
+        {
+            "title": "六级真题核心词",
+            "name": "CET6luan_1",
+            "url": "https://github.com/kajweb/dict/raw/refs/heads/master/book/1521164660466_CET6luan_1.zip"
+        },
+        {
+            "title": "考研必考词汇",
+            "name": "KaoYanluan_1",
+            "url": "https://github.com/kajweb/dict/raw/refs/heads/master/book/1521164661106_KaoYanluan_1.zip"
+        },
+        {
+            "title": "专四真题高频词",
+            "name": "Level4luan_1",
+            "url": "https://github.com/kajweb/dict/raw/refs/heads/master/book/1521164630387_Level4luan_1.zip"
+        },
+        {
+            "title": "专八真题高频词",
+            "name": "Level8luan_1",
+            "url": "https://github.com/kajweb/dict/raw/refs/heads/master/book/1521164635290_Level8_1.zip"
+        },
+        {
+            "title": "四级英语词汇",
+            "name": "CET4luan_2",
+            "url": "https://github.com/kajweb/dict/raw/refs/heads/master/book/1524052539052_CET4luan_2.zip"
+        },
+        {
+            "title": "六级英语词汇",
+            "name": "CET6luan_2",
+            "url": "https://github.com/kajweb/dict/raw/refs/heads/master/book/1524052554766_CET6_2.zip"
+        },
+        {
+            "title": "考研英语词汇",
+            "name": "KaoYanluan_2",
+            "url": "https://github.com/kajweb/dict/raw/refs/heads/master/book/1521164654696_KaoYan_2.zip"
+        },
+        {
+            "title": "雅思词汇",
+            "name": "IELTSluan_2",
+            "url": "https://github.com/kajweb/dict/raw/refs/heads/master/book/1521164624473_IELTSluan_2.zip"
+        },
+        {
+            "title": "托福词汇",
+            "name": "TOEFLluan_2",
+            "url": "https://github.com/kajweb/dict/raw/refs/heads/master/book/1521164640451_TOEFL_2.zip"
+        },
+        {
+            "title": "GRE词汇",
+            "name": "GREluan_2",
+            "url": "https://github.com/kajweb/dict/raw/refs/heads/master/book/1521164637271_GRE_2.zip"
+        },
+        {
+            "title": "中考必备词汇",
+            "name": "ChuZhongluan_2",
+            "url": "https://github.com/kajweb/dict/raw/refs/heads/master/book/1521164669076_ChuZhongluan_2.zip"
+        },
+        {
+            "title": "高考必备词汇",
+            "name": "GaoZhongluan_2",
+            "url": "https://github.com/kajweb/dict/raw/refs/heads/master/book/1521164673602_GaoZhongluan_2.zip"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+python-dotenv
+boto3
+datetime
+requests
+supabase
+Pillow
+
+#beautifulsoup4
+#pyppeteer
+#fastapi[all]
+#uvicorn
+#sentencepiece
+#transformers
+#catboxpy

@@ -1,0 +1,841 @@
+{
+  "id": "coder",
+  "title": "程序员常用词",
+  "words": [
+    {
+      "name": "function",
+      "trans": [
+        "函数"
+      ],
+      "usphone": "ˈfʌŋkʃn",
+      "ukphone": "ˈfʌŋkʃn"
+    },
+    {
+      "name": "variable",
+      "trans": [
+        "变量"
+      ],
+      "usphone": "ˈveriəbl",
+      "ukphone": "ˈveəriəbl"
+    },
+    {
+      "name": "constant",
+      "trans": [
+        "常量"
+      ],
+      "usphone": "ˈkɑːnstənt",
+      "ukphone": "ˈkɒnstənt"
+    },
+    {
+      "name": "array",
+      "trans": [
+        "数组"
+      ],
+      "usphone": "əˈreɪ",
+      "ukphone": "əˈreɪ"
+    },
+    {
+      "name": "string",
+      "trans": [
+        "字符串"
+      ],
+      "usphone": "strɪŋ",
+      "ukphone": "strɪŋ"
+    },
+    {
+      "name": "integer",
+      "trans": [
+        "整数"
+      ],
+      "usphone": "ˈɪntɪdʒər",
+      "ukphone": "ˈɪntɪdʒə"
+    },
+    {
+      "name": "boolean",
+      "trans": [
+        "布尔值"
+      ],
+      "usphone": "ˈbuːliən",
+      "ukphone": "ˈbuːliən"
+    },
+    {
+      "name": "object",
+      "trans": [
+        "对象"
+      ],
+      "usphone": "ˈɑːbdʒekt",
+      "ukphone": "ˈɒbdʒekt"
+    },
+    {
+      "name": "class",
+      "trans": [
+        "类"
+      ],
+      "usphone": "klæs",
+      "ukphone": "klɑːs"
+    },
+    {
+      "name": "method",
+      "trans": [
+        "方法"
+      ],
+      "usphone": "ˈmeθəd",
+      "ukphone": "ˈmeθəd"
+    },
+    {
+      "name": "interface",
+      "trans": [
+        "接口"
+      ],
+      "usphone": "ˈɪntərfeɪs",
+      "ukphone": "ˈɪntəfeɪs"
+    },
+    {
+      "name": "abstract",
+      "trans": [
+        "抽象的"
+      ],
+      "usphone": "æbˈstrækt",
+      "ukphone": "ˈæbstrækt"
+    },
+    {
+      "name": "static",
+      "trans": [
+        "静态的"
+      ],
+      "usphone": "ˈstætɪk",
+      "ukphone": "ˈstætɪk"
+    },
+    {
+      "name": "public",
+      "trans": [
+        "公有的"
+      ],
+      "usphone": "ˈpʌblɪk",
+      "ukphone": "ˈpʌblɪk"
+    },
+    {
+      "name": "private",
+      "trans": [
+        "私有的"
+      ],
+      "usphone": "ˈpraɪvət",
+      "ukphone": "ˈpraɪvət"
+    },
+    {
+      "name": "protected",
+      "trans": [
+        "受保护的"
+      ],
+      "usphone": "prəˈtektɪd",
+      "ukphone": "prəˈtektɪd"
+    },
+    {
+      "name": "return",
+      "trans": [
+        "返回"
+      ],
+      "usphone": "rɪˈtɜːrn",
+      "ukphone": "rɪˈtɜːn"
+    },
+    {
+      "name": "import",
+      "trans": [
+        "导入"
+      ],
+      "usphone": "ˈɪmpɔːrt",
+      "ukphone": "ˈɪmpɔːt"
+    },
+    {
+      "name": "export",
+      "trans": [
+        "导出"
+      ],
+      "usphone": "ˈekspɔːrt",
+      "ukphone": "ˈekspɔːt"
+    },
+    {
+      "name": "default",
+      "trans": [
+        "默认"
+      ],
+      "usphone": "dɪˈfɔːlt",
+      "ukphone": "dɪˈfɔːlt"
+    },
+    {
+      "name": "async",
+      "trans": [
+        "异步"
+      ],
+      "usphone": "eɪˈsɪŋk",
+      "ukphone": "eɪˈsɪŋk"
+    },
+    {
+      "name": "await",
+      "trans": [
+        "等待"
+      ],
+      "usphone": "əˈweɪt",
+      "ukphone": "əˈweɪt"
+    },
+    {
+      "name": "promise",
+      "trans": [
+        "承诺",
+        "Promise"
+      ],
+      "usphone": "ˈprɑːmɪs",
+      "ukphone": "ˈprɒmɪs"
+    },
+    {
+      "name": "callback",
+      "trans": [
+        "回调"
+      ],
+      "usphone": "ˈkɔːlbæk",
+      "ukphone": "ˈkɔːlbæk"
+    },
+    {
+      "name": "closure",
+      "trans": [
+        "闭包"
+      ],
+      "usphone": "ˈkloʊʒər",
+      "ukphone": "ˈkləʊʒə"
+    },
+    {
+      "name": "scope",
+      "trans": [
+        "作用域"
+      ],
+      "usphone": "skoʊp",
+      "ukphone": "skəʊp"
+    },
+    {
+      "name": "stack",
+      "trans": [
+        "栈"
+      ],
+      "usphone": "stæk",
+      "ukphone": "stæk"
+    },
+    {
+      "name": "heap",
+      "trans": [
+        "堆"
+      ],
+      "usphone": "hiːp",
+      "ukphone": "hiːp"
+    },
+    {
+      "name": "pointer",
+      "trans": [
+        "指针"
+      ],
+      "usphone": "ˈpɔɪntər",
+      "ukphone": "ˈpɔɪntə"
+    },
+    {
+      "name": "reference",
+      "trans": [
+        "引用"
+      ],
+      "usphone": "ˈrefrəns",
+      "ukphone": "ˈrefrəns"
+    },
+    {
+      "name": "null",
+      "trans": [
+        "空值"
+      ],
+      "usphone": "nʌl",
+      "ukphone": "nʌl"
+    },
+    {
+      "name": "undefined",
+      "trans": [
+        "未定义"
+      ],
+      "usphone": "ˌʌndɪˈfaɪnd",
+      "ukphone": "ˌʌndɪˈfaɪnd"
+    },
+    {
+      "name": "exception",
+      "trans": [
+        "异常"
+      ],
+      "usphone": "ɪkˈsepʃn",
+      "ukphone": "ɪkˈsepʃn"
+    },
+    {
+      "name": "debug",
+      "trans": [
+        "调试"
+      ],
+      "usphone": "ˌdiːˈbʌɡ",
+      "ukphone": "ˌdiːˈbʌɡ"
+    },
+    {
+      "name": "compile",
+      "trans": [
+        "编译"
+      ],
+      "usphone": "kəmˈpaɪl",
+      "ukphone": "kəmˈpaɪl"
+    },
+    {
+      "name": "runtime",
+      "trans": [
+        "运行时"
+      ],
+      "usphone": "ˈrʌntaɪm",
+      "ukphone": "ˈrʌntaɪm"
+    },
+    {
+      "name": "syntax",
+      "trans": [
+        "语法"
+      ],
+      "usphone": "ˈsɪntæks",
+      "ukphone": "ˈsɪntæks"
+    },
+    {
+      "name": "semantic",
+      "trans": [
+        "语义的"
+      ],
+      "usphone": "sɪˈmæntɪk",
+      "ukphone": "sɪˈmæntɪk"
+    },
+    {
+      "name": "algorithm",
+      "trans": [
+        "算法"
+      ],
+      "usphone": "ˈælɡərɪðəm",
+      "ukphone": "ˈælɡərɪðəm"
+    },
+    {
+      "name": "binary",
+      "trans": [
+        "二进制"
+      ],
+      "usphone": "ˈbaɪnəri",
+      "ukphone": "ˈbaɪnəri"
+    },
+    {
+      "name": "byte",
+      "trans": [
+        "字节"
+      ],
+      "usphone": "baɪt",
+      "ukphone": "baɪt"
+    },
+    {
+      "name": "thread",
+      "trans": [
+        "线程"
+      ],
+      "usphone": "θred",
+      "ukphone": "θred"
+    },
+    {
+      "name": "process",
+      "trans": [
+        "进程"
+      ],
+      "usphone": "ˈprɑːses",
+      "ukphone": "ˈprəʊses"
+    },
+    {
+      "name": "mutex",
+      "trans": [
+        "互斥锁"
+      ],
+      "usphone": "ˈmjuːteks",
+      "ukphone": "ˈmjuːteks"
+    },
+    {
+      "name": "deadlock",
+      "trans": [
+        "死锁"
+      ],
+      "usphone": "ˈdedlɑːk",
+      "ukphone": "ˈdedlɒk"
+    },
+    {
+      "name": "cache",
+      "trans": [
+        "缓存"
+      ],
+      "usphone": "kæʃ",
+      "ukphone": "kæʃ"
+    },
+    {
+      "name": "buffer",
+      "trans": [
+        "缓冲区"
+      ],
+      "usphone": "ˈbʌfər",
+      "ukphone": "ˈbʌfə"
+    },
+    {
+      "name": "stream",
+      "trans": [
+        "流"
+      ],
+      "usphone": "striːm",
+      "ukphone": "striːm"
+    },
+    {
+      "name": "socket",
+      "trans": [
+        "套接字"
+      ],
+      "usphone": "ˈsɑːkɪt",
+      "ukphone": "ˈsɒkɪt"
+    },
+    {
+      "name": "protocol",
+      "trans": [
+        "协议"
+      ],
+      "usphone": "ˈproʊtəkɔːl",
+      "ukphone": "ˈprəʊtəkɒl"
+    },
+    {
+      "name": "request",
+      "trans": [
+        "请求"
+      ],
+      "usphone": "rɪˈkwest",
+      "ukphone": "rɪˈkwest"
+    },
+    {
+      "name": "response",
+      "trans": [
+        "响应"
+      ],
+      "usphone": "rɪˈspɑːns",
+      "ukphone": "rɪˈspɒns"
+    },
+    {
+      "name": "header",
+      "trans": [
+        "请求头"
+      ],
+      "usphone": "ˈhedər",
+      "ukphone": "ˈhedə"
+    },
+    {
+      "name": "cookie",
+      "trans": [
+        "Cookie"
+      ],
+      "usphone": "ˈkʊki",
+      "ukphone": "ˈkʊki"
+    },
+    {
+      "name": "session",
+      "trans": [
+        "会话"
+      ],
+      "usphone": "ˈseʃn",
+      "ukphone": "ˈseʃn"
+    },
+    {
+      "name": "token",
+      "trans": [
+        "令牌"
+      ],
+      "usphone": "ˈtoʊkən",
+      "ukphone": "ˈtəʊkən"
+    },
+    {
+      "name": "query",
+      "trans": [
+        "查询"
+      ],
+      "usphone": "ˈkwɪri",
+      "ukphone": "ˈkwɪəri"
+    },
+    {
+      "name": "index",
+      "trans": [
+        "索引"
+      ],
+      "usphone": "ˈɪndeks",
+      "ukphone": "ˈɪndeks"
+    },
+    {
+      "name": "schema",
+      "trans": [
+        "模式",
+        "架构"
+      ],
+      "usphone": "ˈskiːmə",
+      "ukphone": "ˈskiːmə"
+    },
+    {
+      "name": "migrate",
+      "trans": [
+        "迁移"
+      ],
+      "usphone": "ˈmaɪɡreɪt",
+      "ukphone": "maɪˈɡreɪt"
+    },
+    {
+      "name": "commit",
+      "trans": [
+        "提交"
+      ],
+      "usphone": "kəˈmɪt",
+      "ukphone": "kəˈmɪt"
+    },
+    {
+      "name": "rollback",
+      "trans": [
+        "回滚"
+      ],
+      "usphone": "ˈroʊlbæk",
+      "ukphone": "ˈrəʊlbæk"
+    },
+    {
+      "name": "branch",
+      "trans": [
+        "分支"
+      ],
+      "usphone": "bræntʃ",
+      "ukphone": "brɑːntʃ"
+    },
+    {
+      "name": "merge",
+      "trans": [
+        "合并"
+      ],
+      "usphone": "mɜːrdʒ",
+      "ukphone": "mɜːdʒ"
+    },
+    {
+      "name": "rebase",
+      "trans": [
+        "变基"
+      ],
+      "usphone": "ˈriːbeɪs",
+      "ukphone": "ˈriːbeɪs"
+    },
+    {
+      "name": "clone",
+      "trans": [
+        "克隆"
+      ],
+      "usphone": "kloʊn",
+      "ukphone": "kləʊn"
+    },
+    {
+      "name": "conflict",
+      "trans": [
+        "冲突"
+      ],
+      "usphone": "ˈkɑːnflɪkt",
+      "ukphone": "ˈkɒnflɪkt"
+    },
+    {
+      "name": "review",
+      "trans": [
+        "审查"
+      ],
+      "usphone": "rɪˈvjuː",
+      "ukphone": "rɪˈvjuː"
+    },
+    {
+      "name": "deploy",
+      "trans": [
+        "部署"
+      ],
+      "usphone": "dɪˈplɔɪ",
+      "ukphone": "dɪˈplɔɪ"
+    },
+    {
+      "name": "server",
+      "trans": [
+        "服务器"
+      ],
+      "usphone": "ˈsɜːrvər",
+      "ukphone": "ˈsɜːvə"
+    },
+    {
+      "name": "client",
+      "trans": [
+        "客户端"
+      ],
+      "usphone": "ˈklaɪənt",
+      "ukphone": "ˈklaɪənt"
+    },
+    {
+      "name": "frontend",
+      "trans": [
+        "前端"
+      ],
+      "usphone": "ˈfrʌntend",
+      "ukphone": "ˈfrʌntend"
+    },
+    {
+      "name": "backend",
+      "trans": [
+        "后端"
+      ],
+      "usphone": "ˈbækend",
+      "ukphone": "ˈbækend"
+    },
+    {
+      "name": "database",
+      "trans": [
+        "数据库"
+      ],
+      "usphone": "ˈdeɪtəbeɪs",
+      "ukphone": "ˈdeɪtəbeɪs"
+    },
+    {
+      "name": "queue",
+      "trans": [
+        "队列"
+      ],
+      "usphone": "kjuː",
+      "ukphone": "kjuː"
+    },
+    {
+      "name": "worker",
+      "trans": [
+        "工作线程"
+      ],
+      "usphone": "ˈwɜːrkər",
+      "ukphone": "ˈwɜːkə"
+    },
+    {
+      "name": "docker",
+      "trans": [
+        "容器引擎"
+      ],
+      "usphone": "ˈdɑːkər",
+      "ukphone": "ˈdɒkə"
+    },
+    {
+      "name": "linux",
+      "trans": [
+        "Linux"
+      ],
+      "usphone": "ˈlɪnəks",
+      "ukphone": "ˈlɪnəks"
+    },
+    {
+      "name": "kernel",
+      "trans": [
+        "内核"
+      ],
+      "usphone": "ˈkɜːrnl",
+      "ukphone": "ˈkɜːnl"
+    },
+    {
+      "name": "shell",
+      "trans": [
+        "外壳",
+        "命令行"
+      ],
+      "usphone": "ʃel",
+      "ukphone": "ʃel"
+    },
+    {
+      "name": "command",
+      "trans": [
+        "命令"
+      ],
+      "usphone": "kəˈmænd",
+      "ukphone": "kəˈmɑːnd"
+    },
+    {
+      "name": "argument",
+      "trans": [
+        "参数"
+      ],
+      "usphone": "ˈɑːrɡjumənt",
+      "ukphone": "ˈɑːɡjumənt"
+    },
+    {
+      "name": "option",
+      "trans": [
+        "选项"
+      ],
+      "usphone": "ˈɑːpʃn",
+      "ukphone": "ˈɒpʃn"
+    },
+    {
+      "name": "path",
+      "trans": [
+        "路径"
+      ],
+      "usphone": "pæθ",
+      "ukphone": "pɑːθ"
+    },
+    {
+      "name": "directory",
+      "trans": [
+        "目录"
+      ],
+      "usphone": "dəˈrektəri",
+      "ukphone": "dəˈrektəri"
+    },
+    {
+      "name": "permission",
+      "trans": [
+        "权限"
+      ],
+      "usphone": "pərˈmɪʃn",
+      "ukphone": "pəˈmɪʃn"
+    },
+    {
+      "name": "memory",
+      "trans": [
+        "内存"
+      ],
+      "usphone": "ˈmeməri",
+      "ukphone": "ˈmeməri"
+    },
+    {
+      "name": "network",
+      "trans": [
+        "网络"
+      ],
+      "usphone": "ˈnetwɜːrk",
+      "ukphone": "ˈnetwɜːk"
+    },
+    {
+      "name": "latency",
+      "trans": [
+        "延迟"
+      ],
+      "usphone": "ˈleɪtənsi",
+      "ukphone": "ˈleɪtənsi"
+    },
+    {
+      "name": "throughput",
+      "trans": [
+        "吞吐量"
+      ],
+      "usphone": "ˈθruːpʊt",
+      "ukphone": "ˈθruːpʊt"
+    },
+    {
+      "name": "bandwidth",
+      "trans": [
+        "带宽"
+      ],
+      "usphone": "ˈbændwɪdθ",
+      "ukphone": "ˈbændwɪdθ"
+    },
+    {
+      "name": "package",
+      "trans": [
+        "包"
+      ],
+      "usphone": "ˈpækɪdʒ",
+      "ukphone": "ˈpækɪdʒ"
+    },
+    {
+      "name": "module",
+      "trans": [
+        "模块"
+      ],
+      "usphone": "ˈmɑːdʒuːl",
+      "ukphone": "ˈmɒdjuːl"
+    },
+    {
+      "name": "library",
+      "trans": [
+        "库"
+      ],
+      "usphone": "ˈlaɪbreri",
+      "ukphone": "ˈlaɪbrəri"
+    },
+    {
+      "name": "framework",
+      "trans": [
+        "框架"
+      ],
+      "usphone": "ˈfreɪmwɜːrk",
+      "ukphone": "ˈfreɪmwɜːk"
+    },
+    {
+      "name": "dependency",
+      "trans": [
+        "依赖"
+      ],
+      "usphone": "dɪˈpendənsi",
+      "ukphone": "dɪˈpendənsi"
+    },
+    {
+      "name": "refactor",
+      "trans": [
+        "重构"
+      ],
+      "usphone": "riˈfæktər",
+      "ukphone": "riˈfæktə"
+    },
+    {
+      "name": "iterate",
+      "trans": [
+        "迭代"
+      ],
+      "usphone": "ˈɪtəreɪt",
+      "ukphone": "ˈɪtəreɪt"
+    },
+    {
+      "name": "recursive",
+      "trans": [
+        "递归的"
+      ],
+      "usphone": "rɪˈkɜːrsɪv",
+      "ukphone": "rɪˈkɜːsɪv"
+    },
+    {
+      "name": "generic",
+      "trans": [
+        "泛型的"
+      ],
+      "usphone": "dʒəˈnerɪk",
+      "ukphone": "dʒəˈnerɪk"
+    },
+    {
+      "name": "override",
+      "trans": [
+        "重写"
+      ],
+      "usphone": "ˌoʊvərˈraɪd",
+      "ukphone": "ˌəʊvəˈraɪd"
+    },
+    {
+      "name": "inherit",
+      "trans": [
+        "继承"
+      ],
+      "usphone": "ɪnˈherɪt",
+      "ukphone": "ɪnˈherɪt"
+    },
+    {
+      "name": "polymorphism",
+      "trans": [
+        "多态"
+      ],
+      "usphone": "ˌpɑːliˈmɔːrfɪzəm",
+      "ukphone": "ˌpɒliˈmɔːfɪzəm"
+    },
+    {
+      "name": "encapsulation",
+      "trans": [
+        "封装"
+      ],
+      "usphone": "ɪnˌkæpsjəˈleɪʃn",
+      "ukphone": "ɪnˌkæpsjʊˈleɪʃn"
+    }
+  ]
+}
